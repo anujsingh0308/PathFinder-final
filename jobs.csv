@@ -1,0 +1,2433 @@
+id,publishedAt,salary,title,jobUrl,companyName,companyUrl,location,postedTime,applicationsCount,description,contractType,experienceLevel,workType,sector,companyId,posterProfileUrl,posterFullName
+3833862248,2024-03-16,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3833862248?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Noida, Uttar Pradesh, India",2 weeks ago,Over 200 applicants,"Come be a part of Microsoft’s new Strategic Missions and Technologies team (SMT), evolving Azure Space, Quantum computing, Federal, telco, and Silicon Industries. This new division is growing and providing opportunities for high visibility and impact. As we expand high performance computing, we are applying the latest in secure collaborative technologies to our growing Azure cloud capabilities. Be part of a new business stand-up and help us expand our strategic global industries with thought leadership in key technologies such as distributed large scale secure, high-performance computing.
+
+SMT is on an exciting journey of growth and innovation, and we are thrilled to invite passionate and dynamic individuals to join our newly established and rapidly growing team in India. As we expand our global presence, we are seeking a Software Engineer to be a key contributor to our evolving development center.
+
+Our diversity of knowledge and experience comes together for the benefit of our customers, our colleagues, our business, and ourselves. As we grow, our team actively seeks out and values diversity of background, thought, and disciplines. We enjoy great challenges, collaboration and seeing our customers succeed while we evolve our platform. We are an agile team, have a growth mind-set, deeply passionate about our customers and developing quality software. We invest in career progression and learning opportunities. Join us and build the future of global computing and connectivity!
+
+This technical role presents a robust opportunity to have a tangible impact on our cloud products and advance product strategy, as well as fuel our customers’ success. Intentional collaboration is a must in this role.
+
+Responsibilities
+
+Responsibilities
+
+
+ * Deliver solutions through software development with a high degree of focus on quality code, innovation, and strong communications through documentation.
+ * Participate actively in code development, code reviews, bug/issue triage within the engineering team.
+   
+   
+
+Qualifications
+
+Required Qualifications
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+      
+
+Bonus Qualifications
+
+
+ * Proven experience in the disciplines of software design, development, and engineering in team-oriented product environments. 1 or more years.
+ * Experience and knowledge with at least one object-oriented programming language (e.g., C++, C#, Java)
+ * Experience implementing cloud-based solutions
+ * Technical knowledge of Azure cloud architecture and services (IaaS, containers, orchestrators), or similar experience with AWS or GCP
+ * Worked on scalable distributed solutions built for cloud scale resiliency
+ * Familiarity with Azure Services, networking and security a big plus
+ * A positive team player that values and cultivates inclusion, conscious collaboration, growth mindset, leading by example and customer obsession
+ * Desire to learn and adapt to the ever-changing cloud technologies
+   
+   
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+#MissionEngineering
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3864147257,2024-03-22,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-phonepe-3864147257?trk=public_jobs_topcard-title,PhonePe,https://in.linkedin.com/company/phonepe-internet?trk=public_jobs_topcard-org-name,"Bangalore Urban, Karnataka, India",1 week ago,Over 200 applicants,"About PhonePe Group:
+PhonePe is India’s leading digital payments company with 50 crore (500 Million) registered users and 3.7 crore (37 Million) merchants covering over 99% of the postal codes across India. On the back of its leadership in digital payments, PhonePe has expanded into financial services (Insurance, Mutual Funds, Stock Broking, and Lending) as well as adjacent tech-enabled businesses such as Pincode for hyperlocal shopping and Indus App Store which is India's first localized App Store. The PhonePe Group is a portfolio of businesses aligned with the company's vision to offer every Indian an equal opportunity to accelerate their progress by unlocking the flow of money and access to services.
+Culture
+At PhonePe, we take extra care to make sure you give your best at work, Everyday! And creating the right environment for you is just one of the things we do. We empower people and trust them to do the right thing. Here, you own your work from start to finish, right from day one. Being enthusiastic about tech is a big part of being at PhonePe. If you like building technology that impacts millions, ideating with some of the best minds in the country and executing on your dreams with purpose and speed, join us!
+DevX roadmap is being executed with contributions from teams all over the org, and we built several tools and systems that make our day better. To name a few - workflow apps (Kudos, CiBot, JiraBot) over our tools(slack, Jira, Gitlab) and comprehensive platforms like Autopsy 2.0, FrontPage that solve org level problems. To deliver high impact and rise to the challenges of our roadmap and charter, and to ensure consistent execution, we are establishing a centralized DevX team. This team will consist of dedicated engineers working full-time on DevX projects.
+What will you find:
+
+ * Exciting impactful work that solves the day to day problems of engineers.
+ * Opportunity to work closely with all teams across the organization, and work on org-level problem statements.
+ * Work with a wide range of tools and tech stack both on backend and frontend.
+ * Opportunity to understand, evaluate widely adopted engineering processes and tools in the industry and customize, build and deploy them for the Phonepe ecosystem.
+   
+
+As a Software Engineer:
+
+ * You will build Robust and scalable web-based applications You will need to think of platforms & reuse
+ * Build abstractions and contracts with separation of concerns for a larger scope
+ * Drive problem-solving skills for high-level business and technical problems.
+ * Do high-level design with guidance; Functional modeling, break-down of a module
+ * Do incremental changes to architecture: impact analysis of the same
+ * Do performance tuning and improvements in large scale distributed systems
+ * Mentor young minds and foster team spirit, break down execution into phases to bring predictability to overall execution
+ * Work closely with Product Manager to derive capability view from features/solutions, Lead execution of medium-sized projects
+ * Work with broader stakeholders to track the impact of projects/features and proactively iterate to improve them As a senior software engineer you must have
+ * Extensive and expert programming experience in at least one general programming language (e.g. Java, C, C++) & tech stack to write maintainable, scalable, unit-tested code.
+ * Experience with multi-threading and concurrency programming
+ * Extensive experience in object-oriented design skills, knowledge of design patterns, and huge passion and ability to design intuitive module and class-level interfaces
+ * Excellent coding skills – should be able to convert the design into code fluently
+ * Knowledge of Test Driven Development
+ * Good understanding of databases (e.g. MySQL) and NoSQL (e.g. HBase, Elasticsearch, Aerospike, etc)
+ * Strong desire to solving complex and interesting real-world problems
+ * Experience with full life cycle development in any programming language on a Linux platform
+ * Go-getter attitude that reflects in energy and intent behind assigned tasks
+ * Worked in a startups environment with high levels of ownership and commitment
+ * BTech, MTech, or Ph.D. in Computer Science or related technical discipline (or equivalent).
+ * Experience in building highly scalable business applications, which involve implementing large complex business flows and dealing with a huge amount of data.
+ * An open communicator who shares thoughts and opinions frequently listens intently and takes constructive feedback.
+   
+
+As a Software Engineer, good to have
+
+ * The ability to drive the design and architecture of multiple subsystems
+ * Ability to break-down larger/fuzzier problems into smaller ones in the scope of the product
+ * Understanding of the industry’s coding standards and an ability to create appropriate technical documentation.
+   
+
+PhonePe Full Time Employee Benefits (Not applicable for Intern or Contract Roles)
+
+ * Insurance Benefits - Medical Insurance, Critical Illness Insurance, Accidental Insurance, Life Insurance
+ * Wellness Program - Employee Assistance Program, Onsite Medical Center, Emergency Support System
+ * Parental Support - Maternity Benefit, Paternity Benefit Program, Adoption Assistance Program, Day-care Support Program
+ * Mobility Benefits - Relocation benefits, Transfer Support Policy, Travel Policy
+ * Retirement Benefits - Employee PF Contribution, Flexible PF Contribution, Gratuity, NPS, Leave Encashment
+ * Other Benefits - Higher Education Assistance, Car Lease, Salary Advance Policy
+   
+
+Working at PhonePe is a rewarding experience! Great people, a work environment that thrives on creativity, the opportunity to take on roles beyond a defined job description are just some of the reasons you should work with us. Read more about PhonePe on our blog.
+Life at PhonePe
+PhonePe in the news",Full-time,Mid-Senior level,Engineering,"Technology, Information and Internet",10479149,https://in.linkedin.com/in/knishamenon,Nisha Menon
+3868955761,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868955761?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",5 days ago,Over 200 applicants,"We are part of Edge & Platform organization delivering Azure Stack Edge and HCI which are edge-computing devices managed from Azure and we are working on our next portfolio of Edge offerings. Our team HybridAKS, who bring the Azure Cloud to on prem and enable customers to run/manage Kubernetes clusters and their workloads from any location in the world using azure portal or az cli.
+
+Responsibilities
+
+We are looking for solid developers with the passion to research new areas, write optimal code, enhance coding standards and ship fast.
+
+We follow short, frequent release cycles with room for innovation in multiple areas.
+
+As a team, we welcome smart, motivated engineers, with a positive attitude and growth mindset, ready to translate ambiguity into concrete deliverables that move the needle for the customer.
+
+Come ready to work at cloud scale while still maintaining a small-team environment.
+
+Be a role model for an open, honest, and inclusive approach to problem solving.
+
+Qualifications
+
+Required :
+
+'BS in computer science or equivalent experience
+
+Deep understanding of efficient data structures and algorithms
+
+System design and good understanding of distributed system
+
+Solid analytical and problem solving
+
+Experience in GoLang or anyone programming language
+
+Experience in debugging complex system
+
+Experience in virtualization/containers, Kubernetes (or any container orchestrator)
+
+Preferred
+
+'BS in computer science or equivalent experience
+
+Deep understanding of efficient data structures and algorithms
+
+System design and good understanding of distributed system
+
+Solid analytical and problem solving
+
+Experience in GoLang or anyone programming language
+
+Experience in debugging complex system
+
+Experience in virtualization/containers, Kubernetes (or any container orchestrator)
+
+#IDCAzureEPHiring
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3861734474,2024-03-20,,Software Development Engineer Backend- I,https://in.linkedin.com/jobs/view/software-development-engineer-backend-i-at-upstox-3861734474?trk=public_jobs_topcard-title,Upstox,https://in.linkedin.com/company/upstox?trk=public_jobs_topcard-org-name,"Mumbai, Maharashtra, India",1 week ago,Over 200 applicants,"The Upstox Story:
+
+Upstox is one of India's leading Fin-Tech companies with a mission to simplify trading & investing to make it easily accessible to the masses. We aim to enable everyone, from new investors to seasoned traders, to invest across multiple categories with our state-of-the-art trade & investment platform and commission-free pricing. We offer numerous asset categories to invest in, like Stocks, IPOs, Mutual Funds, and more.
+
+By focusing on our customers’ needs and equipping them with personalized yet powerful tools, we witnessed a steep growth of 800% in our customer base from 25 Thousand in 2017 to 2 Lakh in 2019. With 1500% growth in 2020, currently, over 11 million customers trust us with their investment decisions, thus setting us on the course to become an industry-leader in the country.
+
+Our mission is simple - to break down the complexities of investing and make it more effortless, accessible, affordable, and easy for the masses to adopt. This key principle when infused with intuitive design and leading-edge technology will help us empower every Indian to take control of their investments.
+
+RKSV Securities was founded by Ravi Kumar and Shrinivas Viswanath in 2009 and was soon graced by Kavitha Subramanian as the third co-founder in 2016. Backed by Ratan Tata, Upstox had raised $4 million in Series A funding in early 2016 that was led by Kalaari Capital. The Series B funding round scaled multifold and witnessed an investment of $25 million by US-based investment firm - Tiger Global Management in September 2019.
+
+We have a team of highly skilled technology and finance professionals, and are currently looking for highly motivated field experts to be part of our high-energy team.
+
+Roles & Responsibilities:
+
+
+ * Provide expertise in the development of new products/services/processes, frequently operating at the leading edge of technology
+ * Solve complex problems and follow good coding practices and complying with existing quality standard
+ * Analyze project requirements and accordingly provide technical and functional recommendations
+ * Perform system failure analysis and provide corrective actions
+ * Setup high-quality standards in production running code by performing diligent code reviews and rigorous unit test coverage
+ * Ensure high availability of backend services
+   
+   
+   
+
+Experience Required:
+
+
+ * 1-3 years of experience in software development
+ * B.S. or higher in Computer Science (or equivalent work experience)
+ * Expert knowledge of computer science with strong competencies in Data Structures, - Algorithms & OOPs concepts
+ * Worked on SQL databases, Knowledge of NoSQL DBs like MongoDB and Caching (like Redis) will be an added advantage
+ * Knowledge of microservices architecture
+   
+   
+   
+
+Psst… tips on how you can beat the competition:
+
+If you can showcase your abilities to:
+
+
+ * Be self-driven / quick starter
+ * Have an ownership mindset
+ * Aggressively drive and deliver results
+   
+   
+   
+
+If you fit the above description, we would love to connect with you! APPLY NOW
+
+A basic requirement but one that many forget: Make sure you go through our website, download our app and give us feedback!
+
+Upstox is an Equal Opportunity Employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or other characteristics.",Full-time,Not Applicable,Engineering and Information Technology,Financial Services,15091079,,
+3837536416,2024-02-28,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3837536416?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",1 month ago,Over 200 applicants,"Have you ever imagined a world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their data from anywhere at any time via any means (e.g., mobile phones, tablets, PCs, smart devices, etc.). Did you ever desire a universally accessible storage system to record all the knowledge known to mankind or to store all the data collected from all the scientists in the world for them to collaborate upon? Do you want to be part of a team that strives to bring these to reality?
+
+If so, the Microsoft Azure Storage team is what you are looking for. We are building Microsoft’s cloud storage solution - Microsoft Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. We continue to have tremendous hockey stick growth, we have many Exabyte’s of data stored, and are designing and building systems for Zettabyte scale to support demand growth for the coming years.
+
+We are looking for engineers who are self-starters with a passion for learning and bringing fresh ideas to build high quality products. You will have opportunities to work on fast-paced teams and make high impact changes on a daily basis as you build world class services.
+
+As a Software Engineer in the Azure Storage team, you will build, improve and support highly scalable, performant services that deliver highly reliable, secure and available access to storage for our customers. You will face challenges of monitoring, analyzing, and designing for ever-growing data needs of our customers and for ensuring data privacy, protection and compliance. This opportunity will allow you to develop your technical skills in cloud services and storage, accelerate career growth, and provide an opportunity to work in a highly dynamic, flexible, and globally distributed team.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+
+ * Collaborates with appropriate stakeholders to determine user requirements for a scenario.
+ * Creates and implements code for a product, service, or feature, reusing code as applicable.
+ * Contributes to the identification of dependencies, and the development of design documents for end to end scenarios testing and test infrastructure with little oversight.  
+ * Design and develop test automation tools and execute automation scripts.
+ * Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
+ * Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+   
+   
+
+Qualifications
+
+Required Qualifications:
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Excellence in software engineering practices.
+ * Knowledge of software QA methodologies, tools, and processes.
+   
+
+Other Qualifications
+
+
+ * Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+   
+   
+
+Preferred Qualifications
+
+
+ * Bachelor's Degree in Computer Science
+    * OR related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, OR Python
+    * OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Develop or specify standards, methods, or procedures to determine product quality or release readiness.
+ * Experience in building quality products and services preferably in distributed systems.
+   
+
+#azurecorejobs #AzStorageIDC
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3852551503,2024-03-12,,Web Developer,https://in.linkedin.com/jobs/view/web-developer-at-mahe-technologies-private-limited-3852551503?trk=public_jobs_topcard-title,Mahe Technologies Private Limited,https://in.linkedin.com/company/mahe-technologies-private-limited?trk=public_jobs_topcard-org-name,Greater Kolkata Area,2 weeks ago,51 applicants,"The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to design, develop, and maintain our next generation websites and web tools. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects.
+
+Responsibilities
+
+
+ * Revise, edit, proofread & optimize web content
+ * Work with cross-functionally to enhance overall user experience of our platforms
+ * Own various design tasks involved in the web development life cycle from start to finish
+   
+   
+
+Qualifications
+
+
+ * Bachelor's degree or equivalent experience in Computer Science
+ * At least 1 - 2 years' of experience using HTML, CSS, and JavaScript
+ * Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)
+ * Ability to multi-task, organize, and prioritize work",Full-time,Executive,Engineering and Information Technology,Information Technology & Services,14387125,,
+3844373903,2024-03-07,,Hindustan Times - Software Development Engineer II/III - Python,https://in.linkedin.com/jobs/view/hindustan-times-software-development-engineer-ii-iii-python-at-hindustan-times-3844373903?trk=public_jobs_topcard-title,Hindustan Times,https://in.linkedin.com/company/hindustantimes?trk=public_jobs_topcard-org-name,"Gurugram, Haryana, India",3 weeks ago,59 applicants,"Overview
+
+We are seeking talented Software Developers proficient in Python, with a specialisation in data engineering and web crawling. This role entails the design and implementation of resilient data solutions, coupled with the development of efficient web crawlers for extracting information from diverse online sources. The ideal candidate will exhibit a passion for utilising open-source libraries to gather, process, and analyse data.
+
+Key Responsibilities Include
+
+
+ * Collaborate with product managers, cross-functional teams, and stakeholders to comprehend data requirements. Translate requirements into technical specifications, ensuring data quality and integrity
+ * Design and implement data engineering solutions using Python to manage large and diverse datasets.
+ * Ensure efficient storage, retrieval, and processing of data, following best practices
+ * Develop and maintain web crawlers in Python for extracting data from diverse online platforms
+ * Create scripts for data cleaning, transformation, and normalisation, ensuring high-quality data
+ * Design and implement data models, databases, and processing components for optimal performance
+ * Integrate with external APIs to enrich data and enhance overall information retrieval processes
+ * Establish monitoring tools to track the health and performance of web crawlers and data processing systems. Identify and address performance bottlenecks
+ * Develop and execute comprehensive test plans for features and data-driven functionalities
+ * Stay updated with emerging technologies and contribute to the continuous improvement of development processes
+   
+   
+
+Functional Competencies
+
+
+ * B.E./B.Tech. in CS/IT or a related field with 2+ years of hands-on experience as a software developer
+ * Expertise in data engineering, encompassing efficient data storage, processing, transformation, and retrieval of large datasets
+ * Strong understanding of Python, MongoDB, MySQL, Elasticsearch, Redis, and related technologies
+ * Proficiency in web crawling using Python libraries and frameworks such as Beautiful Soup, Scrapy, Pandas, NumPy
+ * Experience in Restful API development and integration.
+ * Familiarity with cloud platforms, such as AWS and Azure.
+ * Strong problem-solving skills with meticulous attention to detail
+ * Ability to work collaboratively in a dynamic development environment
+   
+   
+
+(ref:hirist.tech)",Full-time,Mid-Senior level,Information Technology,"Data Infrastructure and Analytics, Technology, Information and Internet, and Software Development",9385515,,
+3864082063,2024-03-19,,SDE-1,https://in.linkedin.com/jobs/view/sde-1-at-airtel-3864082063?trk=public_jobs_topcard-title,airtel,https://in.linkedin.com/company/airtel?trk=public_jobs_topcard-org-name,"Gurgaon, Haryana, India",1 week ago,Over 200 applicants," * You will be responsible for understanding business needs and knowing how to create and manage the tools, and you will be responsible for conferring with users, studying system flow, data usage, and work processes following the software development lifecycle.
+ * You will be responsible for identifying, prioritizing and executing tasks in the software development life cycle.
+ * You will be responsible for performing validation and verification testing.
+ * You will have to collaborate with the internal teams and vendors to fix and improve products.",Full-time,Entry level,Engineering and Information Technology,Telecommunications,3583,,
+3852549931,2024-03-12,,Web Developer,https://in.linkedin.com/jobs/view/web-developer-at-mahe-technologies-private-limited-3852549931?trk=public_jobs_topcard-title,Mahe Technologies Private Limited,https://in.linkedin.com/company/mahe-technologies-private-limited?trk=public_jobs_topcard-org-name,Greater Kolkata Area,2 weeks ago,41 applicants,"The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to design, develop, and maintain our next generation websites and web tools. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects.
+
+Responsibilities
+
+
+ * Revise, edit, proofread & optimize web content
+ * Work with cross-functionally to enhance overall user experience of our platforms
+ * Own various design tasks involved in the web development life cycle from start to finish
+   
+   
+
+Qualifications
+
+
+ * Bachelor's degree or equivalent experience in Computer Science
+ * At least 1 - 2 years' of experience using HTML, CSS, and JavaScript
+ * Proficiency in at least one server-side technology (Java, PHP, NodeJS, Python, Ruby)
+ * Ability to multi-task, organize, and prioritize work",Full-time,Executive,Engineering and Information Technology,Information Technology & Services,14387125,,
+3837536415,2024-02-28,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3837536415?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",1 month ago,Over 200 applicants,"Have you ever imagined a world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their data from anywhere at any time via any means (e.g., mobile phones, tablets, PCs, smart devices, etc.). Did you ever desire a universally accessible storage system to record all the knowledge known to mankind or to store all the data collected from all the scientists in the world for them to collaborate upon? Do you want to be part of a team that strives to bring these to reality?
+
+If so, the Microsoft Azure Storage team is what you are looking for. We are building Microsoft’s cloud storage solution - Microsoft Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. We continue to have tremendous hockey stick growth, we have many Exabyte’s of data stored, and are designing and building systems for Zettabyte scale to support demand growth for the coming years.
+
+As a Software Engineer in the Azure Storage team, you will build, improve and support highly scalable, performant services that deliver highly reliable, secure and available access to storage for our customers. You will face challenges of monitoring, analyzing, and designing for ever-growing data needs of our customers and for ensuring data privacy, protection and compliance. This opportunity will allow you to develop your technical skills in cloud services and storage, accelerate career growth, and provide an opportunity to work in a highly dynamic, flexible, and globally distributed team.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+
+ * Design and implement new features and enhancements for Azure Storage services to enable new hardware designs using best practices and industry standards.Design and implement new features for the storage performance measurement and analysis platform.
+ * Debug and troubleshoot complex issues across multiple software components that block us from enabling new Hardware technologies.
+ * Analyze large scale performance measurement data to find bottlenecks in the software or hardware.
+ * Collaborate with other engineers, product managers, and customers to gather requirements, provide feedback, and deliver solutions. Document and communicate the design and architecture of the software.
+ * Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
+ * Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+   
+   
+
+Qualifications
+
+Required Qualifications:
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+      
+
+Other Qualifications
+
+
+ * Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+   
+   
+
+Preferred Qualifications
+
+
+ * Bachelor's Degree in Computer Science
+    * OR related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, OR Python
+    * OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Experience with
+    * any NoSQL database, such as MongoDB, Cassandra, Redis,
+    * AND RESTful APIs, microservices, distributed systems, and data structures,
+    * AND systems programming, operating systems, distributed systems, databases, cloud services including high-performance distributed storage and networking.
+      
+
+#azurecorejobs #AzStorageIDC
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3868950824,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868950824?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",5 days ago,Over 200 applicants,"Have you ever imagined a world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their data from anywhere at any time via any means (e.g., mobile phones, tablets, PCs, smart devices, etc.). Did you ever desire a universally accessible storage system to record all the knowledge known to mankind or to store all the data collected from all the scientists in the world for them to collaborate upon? Do you want to be part of a team that strives to bring these to reality?
+
+If so, the Microsoft Azure Storage team is what you are looking for. We are building Microsoft’s cloud storage solution - Microsoft Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. We continue to have tremendous hockey stick growth, we have many Exabyte’s of data stored, and are designing and building systems for Zettabyte scale to support demand growth for the coming years.
+
+As a Software Engineer in the Azure Storage team, you will build, improve and support highly scalable, performant services that deliver highly reliable, secure and available access to storage for our customers. You will face challenges of monitoring, analyzing, and designing for ever-growing data needs of our customers and for ensuring data privacy, protection and compliance. This opportunity will allow you to develop your technical skills in cloud services and storage, accelerate career growth, and provide an opportunity to work in a highly dynamic, flexible, and globally distributed team.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+
+ * Design and implement new features and enhancements for Azure Storage services to enable new hardware designs using best practices and industry standards.Design and implement new features for the storage performance measurement and analysis platform.
+ * Debug and troubleshoot complex issues across multiple software components that block us from enabling new Hardware technologies.
+ * Analyze large scale performance measurement data to find bottlenecks in the software or hardware.
+ * Collaborate with other engineers, product managers, and customers to gather requirements, provide feedback, and deliver solutions. Document and communicate the design and architecture of the software.
+ * Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
+ * Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+   
+   
+
+Qualifications
+
+Required Qualifications:
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+      
+
+Other Qualifications
+
+
+ * Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+   
+   
+
+Preferred Qualifications
+
+
+ * Bachelor's Degree in Computer Science
+    * OR related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, OR Python
+    * OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Experience with
+    * any NoSQL database, such as MongoDB, Cassandra, Redis,
+    * AND RESTful APIs, microservices, distributed systems, and data structures,
+    * AND systems programming, operating systems, distributed systems, databases, cloud services including high-performance distributed storage and networking.
+      
+
+#azurecorejobs #AzStorageIDC
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3852733520,2024-03-13,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3852733520?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 weeks ago,Over 200 applicants,"Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.
+
+Microsoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.
+
+Within Azure Data, the Microsoft Fabric platform team builds and maintains the operating system and provides customers a unified data stack to run an entire data estate. The platform provides a unified experience, unified governance, enables a unified business model and a unified architecture. 
+
+Within the Microsoft fabric platform team, we are the Core platform team. Our team is responsible of the main compute platform on which all Fabric products are running. Our service is highly scalable and highly available and we are one of the biggest Azure services in the world. We develop features directly for customers but also features for the Fabric products that run on our platform. The Core platform service is a stateful service build on Azure Service Fabric and ContainerD. We use many Azure technologies from Storage, Premium Files, Service Bus, Event Hub, Event Grid, Kusto to SQL Azure, Cosmos DB and Azure Redis.
+
+We are looking for a Software Engineer II with experience working with all service aspects of high throughput and multi-tenant services, ability to design components carefully, properly handle errors, write clean and well-factored code with good tests and good maintainability. Our ideal candidate will have middle tier or backend service development experience.
+
+We do not just value differences or different perspectives. We seek them out and invite them in so we can tap into the collective power of everyone in the company. As a result, our customers are better served.
+
+Responsibilities
+
+Design high quality components in C#/Java using clean and tested code. 
+
+Integrate Azure technologies to achieve high scale and reliability.  
+
+Lead architecture, design, and develop features and solutions with high quality.
+
+Design, implement, and refine chosen solutions in close partnership with Product Management and partner teams.
+
+Review and contribute to the specifications and implementations written by other team members. 
+
+Provide technical leadership across features, projects, service fundamentals, and tools.
+
+Mentor new engineers to bring them up to speed in software development environment.
+
+Embody our culture and values
+
+Qualifications
+
+Required/Minimum Qualifications
+
+Bachelor's Degree in Computer Science, or related technical discipline
+
+Other Requirements
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check:
+
+
+ * This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+   
+   
+
+Preferred/Additional Qualifications
+
+Bachelor's Degree in Computer Science or related technical field
+
+2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+
+#azdat
+
+#azuredata
+
+#seniordeveloper #backend #middletier #CSharp #Azure #Fabric
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3844375595,2024-03-07,,Hindustan Times - Software Development Engineer II/III - Java,https://in.linkedin.com/jobs/view/hindustan-times-software-development-engineer-ii-iii-java-at-hindustan-times-3844375595?trk=public_jobs_topcard-title,Hindustan Times,https://in.linkedin.com/company/hindustantimes?trk=public_jobs_topcard-org-name,"Gurugram, Haryana, India",3 weeks ago,116 applicants,"Overview
+
+We are seeking a highly skilled and motivated Software Development Engineer with expertise in Java to join our dynamic team. As a key contributor to design, development, and maintenance of robust, scalable SaaS-based Collaborate with product managers, cross-functional teams and stakeholders to understand requirements and translate them into technical specifications
+
+
+ * Low level design, implement, and maintain features and functionalities for our SaaS application with efficient, reusable, and well-documented code
+ * Design and implement data models, databases, and data processing components, ensuring optimal performance, scalability, and reliability
+ * Design and implement RESTful APIs to support seamless integration with other services and external applications, Ensure API security, reliability, and adherence to industry best practices
+ * End-to-end development of our SaaS application, focusing on delivering high- quality software solutions
+ * Develop and execute comprehensive test plans for features and data-driven functionalities
+ * Collaborate with QA engineers to ensure the reliability and quality of the software
+ * Identify and address performance bottlenecks, ensuring optimal speed and responsiveness of the application
+ * Participate in code reviews, debugging, and troubleshooting to maintain high-quality code standards
+ * Stay updated with emerging technologies and contribute towards continuous improvement of development Bachelor's degree in computer science, Engineering, or a related field with 2+ year of experience
+ * Proven experience as a Developer with a focus on Low level design
+ * Proficiency in Java, Spring boot, Redis, MongoDB, Elasticsearch, SQL databases Kafka, and related technologies
+ * Experience with microservices, RESTful API development, event-driven architectures and integration
+ * Strong understanding of data-driven application development and database design
+ * Solid understanding of software development best practices, design patterns, and object-oriented principles
+ * Familiarity with cloud platforms (e.g., AWS, Azure) and containerisation (e.g., Docker) is a plus
+ * Excellent problem-solving and communication skills
+ * Ability to work collaboratively in an agile development environment
+ * Experience in SaaS-based application development will be preferable
+   
+   
+
+(ref:hirist.tech)",Full-time,Mid-Senior level,Information Technology,"Technology, Information and Internet, Software Development, and Technology, Information and Media",9385515,,
+3847492034,2024-03-11,,Software Engineer- Backend,https://in.linkedin.com/jobs/view/software-engineer-backend-at-oracle-3847492034?trk=public_jobs_topcard-title,Oracle,https://www.linkedin.com/company/oracle?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",3 weeks ago,Over 200 applicants,"Job Description
+
+Are you passionate about building great cloud services and tools for software developers? Are you motivated to learn from industry experts and expand your horizons? If this is you, at Oracle you can design and build innovative new systems from the ground up. These are exciting times in our space - we are growing fast, still at an early stage, and working on new initiatives. An engineer at any level can have significant technical and business impact.
+
+
+
+
+We build tools and services for new Infrastructure-as-a-Service technologies that operate at high scale in a broadly distributed multi-tenant cloud environment. Our mission is to give our customers best-in-class DevOps services to manage their code, build and deployments within OCI. We’re looking for hands-on engineers with expertise and passion in building DevOps platforms for our customers. We want to make DevOps a pleasant experience for our customers
+
+As a Member of Technical Staff you will participate in design development of Oracles DevOps Services. You should be a rock solid coder and have passion to learn new technologies. You should value simplicity and scale, work comfortably in a collaborative, agile environment, and be excited to learn.
+
+
+
+
+Basic Qualifications:
+
+- 3+ years of experience with application development
+
+- Proficient at programming in Java, and one other major programming/scripting language like Python or Go Lang.
+
+- Strong distributed systems fundamentals
+
+- Bachelors in computer science and Engineering or related engineering fields
+
+Required Skills
+
+Java (Programming Language)
+
+Software Development
+
+
+
+
+Preferred Qualifications:
+
+- Strong distributed systems fundamentals
+
+- Terraform experience
+
+- Prior development experience with DevOps in a Public Cloud (like AWS, Azure or GCP) tools or services
+
+- Masters degree in Computer Science
+
+
+
+
+About Us
+
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+
+
+
+When everyone’s voice is heard, we’re inspired to go beyond what’s been done before. It’s why we’re committed to expanding our inclusive workforce that promotes diverse insights and perspectives.
+
+We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.
+
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer a highly competitive suite of employee benefits designed on the principles of parity and consistency. We put our people first with flexible medical, life insurance and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by calling +1 888 404 2494, option one.
+
+Disclaimer:
+
+Oracle is an Equal Employment Opportunity Employer*. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.
+
+* Which includes being a United States Affirmative Action Employer
+
+",Full-time,Associate,Other,IT Services and IT Consulting,1028,https://in.linkedin.com/in/tridip-das,Tridip Das
+3868956031,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868956031?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",5 days ago,Over 200 applicants,"Have you ever imagined a world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their data from anywhere at any time via any means (e.g., mobile phones, tablets, PCs, smart devices, etc.). Did you ever desire a universally accessible storage system to record all the knowledge known to mankind or to store all the data collected from all the scientists in the world for them to collaborate upon? Do you want to be part of a team that strives to bring these to reality?
+
+If so, the Microsoft Azure Storage team is what you are looking for. We are building Microsoft’s cloud storage solution - Microsoft Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. We continue to have tremendous hockey stick growth, we have many Exabyte’s of data stored, and are designing and building systems for Zettabyte scale to support demand growth for the coming years.
+
+We are looking for engineers who are self-starters with a passion for learning and bringing fresh ideas to build high quality products. You will have opportunities to work on fast-paced teams and make high impact changes on a daily basis as you build world class services.
+
+As a Software Engineer in the Azure Storage team, you will build, improve and support highly scalable, performant services that deliver highly reliable, secure and available access to storage for our customers. You will face challenges of monitoring, analyzing, and designing for ever-growing data needs of our customers and for ensuring data privacy, protection and compliance. This opportunity will allow you to develop your technical skills in cloud services and storage, accelerate career growth, and provide an opportunity to work in a highly dynamic, flexible, and globally distributed team.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+
+ * Collaborates with appropriate stakeholders to determine user requirements for a scenario.
+ * Creates and implements code for a product, service, or feature, reusing code as applicable.
+ * Contributes to the identification of dependencies, and the development of design documents for end to end scenarios testing and test infrastructure with little oversight.  
+ * Design and develop test automation tools and execute automation scripts.
+ * Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
+ * Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+   
+   
+
+Qualifications
+
+Required Qualifications:
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Excellence in software engineering practices.
+ * Knowledge of software QA methodologies, tools, and processes.
+   
+
+Other Qualifications
+
+
+ * Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+   
+   
+
+Preferred Qualifications
+
+
+ * Bachelor's Degree in Computer Science
+    * OR related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, OR Python
+    * OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Develop or specify standards, methods, or procedures to determine product quality or release readiness.
+ * Experience in building quality products and services preferably in distributed systems.
+   
+
+#azurecorejobs #AzStorageIDC
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3865500882,2024-03-23,,Frontend-SDE-1,https://in.linkedin.com/jobs/view/frontend-sde-1-at-nxtwave-3865500882?trk=public_jobs_topcard-title,NxtWave,https://in.linkedin.com/school/nxtwavetech/?trk=public_jobs_topcard-org-name,"Hyderabad, Telangana, India",1 week ago,Over 200 applicants,"As a Frontend Developer at NxtWave, you
+
+
+
+
+ * Get first hand experience of building applications and see them released quickly to the NxtWave learners (within weeks)
+ * Get to take ownership of the features you build and work closely with the product team
+ * Work in a great culture that continuously empowers you to grow in your career
+ * Enjoy freedom to experiment & learn from mistakes (Fail Fast, Learn Faster)
+ * NxtWave is one of the fastest growing edtech startups. Get first-hand experience in scaling the features you build as the company grows rapidly
+ * Build in a world-class developer environment by applying clean coding principles, code architecture, etc.
+
+
+
+
+Job Responsibilities:
+
+
+
+
+ * Translating designs and wireframes into high quality code
+ * Developing responsive UI components using React
+ * Understanding existing architecture and build features on top of it
+ * Building reusable components for future use
+ * Working with open source libraries
+ * Writing maintainable code by following Clean code guidelines
+ * Troubleshooting and debugging on issues reported
+ * Collaborating and working with project managers, designers, and peer developers
+ * Aligning to Agile principles, and adhering to Sprint `methodology
+ * Hiring & Mentoring of Software Development Interns
+
+
+
+
+Qualifications and Skills:
+
+
+
+
+ * 1-2 years of strong proficiency in HTML, CSS, and Javascript, Typescript
+ * Previous experience working with REACT and understanding of tools like Babel, Webpack, NPM, etc.
+ * Well versed with React ecosystem like React router, Hooks, CRA etc
+ * Should have worked with state management libraries like Mobx or Redux or others
+ * Good knowledge in Object oriented programming
+ * Knowledge of building user friendly web applications according to Web standards (Accessibility, SEO etc)
+ * Should have worked with RESTful APIs and backend services
+ * Familiarity with Git
+ * Should have a problem-solving and solution-seeking mindset
+ * Good to have practice in writing unit and integration tests (Jest, Cypress) with high code coverage
+ * Good to have experience working with design tools like Figma or Zeplin
+
+
+
+
+Qualities we'd love to find in you:
+
+
+
+
+ * The attitude to always strive for the best outcomes and an enthusiasm to deliver high quality software
+ * Strong collaboration abilities and a flexible & friendly approach to working with teams
+ * Strong determination with a constant eye on solutions
+ * Creative ideas with problem solving mind-set
+ * Be open to receiving objective criticism and improving upon it
+ * Eagerness to learn and zeal to grow
+ * Strong communication skills is a huge plus
+
+
+
+
+Work Location: Hyderabad",Full-time,Entry level,Engineering and Information Technology,Education Administration Programs,71321041,,
+3868953719,2024-03-26,,Software Engineer – Web,https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-web-at-microsoft-3868953719?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Hyderabad, Telangana, India",5 days ago,Over 200 applicants,"Join a team early in its journey towards massive growth. We’re the team driving consumer video at Microsoft – born from the Flipgrid camera and now proliferating throughout the company. Now we’re focused on growing Bing into the hub for consumer video and enabling video creation journeys across Microsoft. We’re looking for highly motivated engineers, with an interest and/or background in video to help us light up new video scenarios across the company. This role provides a unique opportunity to build for and directly impact multiple products simultaneously.
+
+The WebXT organization in Microsoft has the mission of “Make the web work for you”. This team is comprised of several thousand software engineers working on Bing search, Edge browser, Maps, Ads, News, and other projects. Over the years we have developed deep technical expertise in various areas – Machine learning, NLP, speech, computer vision, large scale deployments and continue to innovate and delight customers across 236 regions, 106 languages and with half a billion users.  Please watch this  short video on our team which will give you an insight on why you should join us.
+
+ 
+
+The STCI Team is part of Microsoft’s India Development Centre(IDC) in Hyderabad, Bengaluru and Noida (and home offices at cities across the country for the time being). The team is responsible for driving the overall strategy in search and AI Platforms – spanning consumer and enterprise customers. The team’s constant endeavor is to nurture an innovative, inclusive culture to enable one to build finely crafted Search & AI products and grow to be a leader. It is home to one of the largest groups of machine learning and AI talent, not just in IDC, but all of India.  Please visit our Instagram page   (@lifeatstci)  to get a peek into our culture.
+
+Responsibilities
+
+As a frontend engineer, you will be an integral part of our tight-knit group of dedicated problem solvers. The ideal candidate should be able to quickly make an impact on the web team and work with the larger WebXT team to help us achieve our objectives.
+
+
+ * Deliver video experiences that are highly crafted and rewarding for users.
+ * Collaborate with web, design, and product teams to ensure the goals of the product are aligned with the delivered feature or service.
+ * Deliver experiences that are user-focused and adhere to accessibility standards.
+ * Work with the product development team in driving innovative approaches to solving complex problems.
+ * Maintain code standards regarding quality, privacy, accessibility, security, documentation, etc.
+   
+   
+
+Qualifications
+
+
+ * 2+ years of front-end web development experience (HTML, Javascript, CSS, Usability Testing).
+ * Experience using a modern Javascript Framework (React, Vue, Angular).
+ * A strong working knowledge interfacing with REST APIs.
+ * Demonstrated ability to debug and troubleshoot Javascript and UI/CSS issues and knowledge of optimizations for high performance user experiences.
+   
+   
+
+Bonus Credit For
+
+
+ * Working knowledge of building rich multimedia experiences on web.
+ * Developing features and experiences for large-scale, cross-browser applications across both mobile and desktop.
+ * Experience with TypeScript
+ * A working knowledge of CI and CD pipelines in a development cycle.
+ * Experience building accessible applications that follow WCAG and ADA specifications.
+   
+   
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3876713344,2024-03-31,,Software Engineer-Backend (Indus),https://in.linkedin.com/jobs/view/software-engineer-backend-indus-at-phonepe-3876713344?trk=public_jobs_topcard-title,PhonePe,https://in.linkedin.com/company/phonepe-internet?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",1 day ago,Over 200 applicants,"About PhonePe Group:
+
+PhonePe is India’s leading digital payments company with 50 crore (500 Million) registered users and 3.7 crore (37 Million) merchants covering over 99% of the postal codes across India. On the back of its leadership in digital payments, PhonePe has expanded into financial services (Insurance, Mutual Funds, Stock Broking, and Lending) as well as adjacent tech-enabled businesses such as Pincode for hyperlocal shopping and Indus App Store which is India's first localized App Store. The PhonePe Group is a portfolio of businesses aligned with the company's vision to offer every Indian an equal opportunity to accelerate their progress by unlocking the flow of money and access to services.
+
+Culture
+
+At PhonePe, we take extra care to make sure you give your best at work, Everyday! And creating the right environment for you is just one of the things we do. We empower people and trust them to do the right thing. Here, you own your work from start to finish, right from day one. Being enthusiastic about tech is a big part of being at PhonePe. If you like building technology that impacts millions, ideating with some of the best minds in the country and executing on your dreams with purpose and speed, join us!
+
+Challenges
+
+Building for Scale, Rapid Iterative Development, and Customer-centric Product Thinking at each step defines every day for a developer at PhonePe. Though we engineer for a 50million+ strong user base, we code with every individual user in mind. While we are quick to adopt the latest in Engineering, we care utmost for security, stability, and automation. Apply if you want to experience the best combination of passionate application development and product-driven thinking
+
+As a Software Engineer:
+
+
+ * You will build Robust and scalable web-based applications You will need to think of platforms & reuse
+ * Build abstractions and contracts with separation of concerns for a larger scope
+ * Drive problem-solving skills for high-level business and technical problems.
+ * Do high-level design with guidance; Functional modeling, break-down of a module
+ * Do incremental changes to architecture: impact analysis of the same
+ * Do performance tuning and improvements in large scale distributed systems
+ * Mentor young minds and foster team spirit, break down execution into phases to bring predictability to overall execution
+ * Work closely with Product Manager to derive capability view from features/solutions, Lead execution of medium-sized projects
+ * Work with broader stakeholders to track the impact of projects/features and proactively iterate to improve them As a senior software engineer you must have
+ * Extensive and expert programming experience in at least one general programming language (e.g. Java, C, C++) & tech stack to write maintainable, scalable, unit-tested code.
+ * Experience with multi-threading and concurrency programming
+ * Extensive experience in object-oriented design skills, knowledge of design patterns, and huge passion and ability to design intuitive module and class-level interfaces
+ * Excellent coding skills – should be able to convert the design into code fluently
+ * Knowledge of Test Driven Development
+ * Good understanding of databases (e.g. MySQL) and NoSQL (e.g. HBase, Elasticsearch, Aerospike, etc)
+ * Strong desire to solving complex and interesting real-world problems
+ * Experience with full life cycle development in any programming language on a Linux platform
+ * Go-getter attitude that reflects in energy and intent behind assigned tasks
+ * Worked in a startups environment with high levels of ownership and commitment
+ * BTech, MTech, or Ph.D. in Computer Science or related technical discipline (or equivalent).
+ * Experience in building highly scalable business applications, which involve implementing large complex business flows and dealing with a huge amount of data.
+ * 1-4 years of experience in the art of writing code and solving problems on a Large Scale.
+ * An open communicator who shares thoughts and opinions frequently listens intently and takes constructive feedback.
+   
+   
+
+As a Software Engineer, good to have
+
+
+ * The ability to drive the design and architecture of multiple subsystems
+ * Ability to break-down larger/fuzzier problems into smaller ones in the scope of the product
+ * Understanding of the industry’s coding standards and an ability to create appropriate technical documentation.
+   
+   
+
+PhonePe Full Time Employee Benefits (Not applicable for Intern or Contract Roles)
+
+
+ * Insurance Benefits - Medical Insurance, Critical Illness Insurance, Accidental Insurance, Life Insurance
+ * Wellness Program - Employee Assistance Program, Onsite Medical Center, Emergency Support System
+ * Parental Support - Maternity Benefit, Paternity Benefit Program, Adoption Assistance Program, Day-care Support Program
+ * Mobility Benefits - Relocation benefits, Transfer Support Policy, Travel Policy
+ * Retirement Benefits - Employee PF Contribution, Flexible PF Contribution, Gratuity, NPS, Leave Encashment
+ * Other Benefits - Higher Education Assistance, Car Lease, Salary Advance Policy
+   
+   
+
+Working at PhonePe is a rewarding experience! Great people, a work environment that thrives on creativity, the opportunity to take on roles beyond a defined job description are just some of the reasons you should work with us. Read more about PhonePe on our blog.
+
+Life at PhonePe
+
+PhonePe in the news",Full-time,Associate,Engineering,"Technology, Information and Internet",10479149,,
+3868954065,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868954065?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Noida, Uttar Pradesh, India",5 days ago,171 applicants,"Do you want to be a part of a multi-billion-dollar organization that is rapidly growing and is responsible for 200M MAU and exabytes of customer data in the cloud at high performance and scale? Do you want to work on technically challenging problems on the cloud in a full-stack environment, with an opportunity to influence the roadmap and vision of not only your team but your partner teams as well? If so, come join the OneDrive-SharePoint (ODSP) team as part of Office M365 ecosystem in Hyderabad!
+
+SharePoint helps millions of people work better together and empowers the biggest companies in the world to solve mission critical problems. We create global scale services to store, secure and manage some of the most sensitive data on the planet.
+
+We have fantastic opportunities and are on the front-line of making many of our next generation architecture investments to deliver multi-geo content store, amazing performance/scale/reliability, and security capabilities using scalable cloud distributed systems.
+
+Responsibilities
+
+Towards this vision, we are seeking a strong and highly motivated engineers to disrupt and build next generation of products and take it to the next level:
+
+
+ * Lead the design/development of software and ensure its quality.
+ * Defining new components with complete understanding of service interdependencies and limitations.
+ * Possess knowledge and is curious to learn more about performance, scalability, enterprise system architecture, and engineering best practices.
+ * Creating prototypes and proof-of-concepts for iterative development.
+ * Work effectively with product development and engineering teams.
+ * You must be self-driven, curious to learn, proactive, and result-oriented.
+   
+   
+
+Join a team of builders and innovators that think outside the box. A team that’s committed to a low operational burden by designing for it. A team that puts work-life balance, personal and professional growth as a principle, not just a goal. If you enjoy working in a dynamic environment to deliver world class mission critical systems, this may be the career opportunity for you!
+
+#SharePointIndia, #ExDIndiaAllJobs, #NextPlay
+
+Qualifications
+
+Qualifications
+
+
+ * Bachelors, Masters, or PhD in computer science or equivalent
+ * Strong CS fundamentals and exceptional coding skills
+ * Good communication and cross group collaboration skills
+ * Experience in Azure, Exchange, or other cloud and distributed systems is a big plus
+   
+   
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3842584407,2024-03-05,,Software Development Engineer - I (Backend),https://in.linkedin.com/jobs/view/software-development-engineer-i-backend-at-coinswitch-3842584407?trk=public_jobs_topcard-title,CoinSwitch,https://in.linkedin.com/company/coinswitch?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",3 weeks ago,Over 200 applicants,"About CoinSwitch
+
+CoinSwitch breaks down the complexities in Crypto, empowering the everyday Indian to make informed investment decisions on a simple and trusted platform. When we started up, Crypto was a field reserved for specialists. Today, over 20 million users trust CoinSwitch to learn, purchase and invest in Crypto. That makes us India’s largest crypto app.
+
+
+
+
+On CoinSwitch, users can invest in Crypto with a few simple taps, either as a one-time purchase or in regular intervals through an SIP. But simplicity is not a substitute for informed decisions. A CoinSwitch user spends 27 minutes on our app—to learn about Crypto and Web3 through our educational content and understand the market sentiments through CRE8, the Crypto Rupee Index.
+
+
+
+
+But we are just getting started. CoinSwitch not only plans to double down on making Crypto accessible to everyone but is on track to become the one-stop wealth-tech destination for every Indian.
+
+
+
+
+For more information about CoinSwitch, find additional resources here: https://linktr.ee/coinswitchcareers
+
+
+
+
+What You Will Do
+
+ * Build cutting-edge, scalable systems by writing simple and efficient code, and push your design.
+ * Optimize APIs for any applications while creating and maintaining unit tests for new code and fixing defects.
+ * Take initiative in developing and maintaining integrations of best practices within the backend group.
+ * Design, develop, test, deploy, maintain, and improve software.
+ * Monitor system uptime and errors to drive us toward a high performing and reliable product.
+ * Take ownership and understand the need for code quality, elegance, and robust infrastructure.
+
+
+
+
+
+
+
+What You Should Have
+
+ * You have 1-3 years of experience in software development.
+ * You have a strong understanding of Data Structures and Algorithms.
+ * You are an incessant problem solver and the tougher the problem gets, the more fun you have.
+ * You have strong command in any one or more of the following languages: Python, Java, Golang.
+ * You understand the business impact of your decisions.
+
+
+
+
+
+
+
+Life at CoinSwitch
+
+We take great pride in what we do, and are committed to our mission. And we have a lot of fun while at it!
+
+Here’s how we do things at CoinSwitch:
+
+ * Customer-first: That’s the North Star. Everything we do is to make our users’ investment experience better and simplified.
+ * Ownership: We don’t sport lab coats, but we experiment—a lot. And we take ownership. We even have a catchphrase for this: Think big, fail fast, and build better.
+ * Data-driven: The source of truth. Simple as that.
+ * Fun: PS5, anyone? Or do you prefer Foosball? Or perhaps Carrom? And yes, our HR team has a whole list of activities: Disco nights, off-sites, gift boxes, and more!
+
+
+
+
+Speaking of lists, the perks and benefits are so extensive, this space isn’t enough. Here are a few:
+
+ * Parenthood: Up to 8 months of Maternity leave and 1 month of Paternity leave
+ * Gender Reassignment Surgery: Be the best version of you! We’ll support you and reimburse your medical bill.
+
+
+
+
+Disclaimer: We are an equal opportunity employer committed to building a respectful and empowering work environment for all people to freely express themselves amongst colleagues who embrace diversity in all respects. Including fresh voices and unique points of view in all aspects of our business not only creates an environment where we can all grow and thrive but also increases our potential to produce work that better represents—and resonates with—the world around us.",Full-time,Entry level,Engineering,Financial Services,13437199,https://in.linkedin.com/in/ayushman-srivastava-4a5553170,Ayushman Srivastava
+3852555996,2024-03-12,,Junior Software Engineer,https://in.linkedin.com/jobs/view/junior-software-engineer-at-cks-solutions-3852555996?trk=public_jobs_topcard-title,CKS SOLUTIONS,https://in.linkedin.com/company/ckssolutions?trk=public_jobs_topcard-org-name,"Agasthiswaram, Tamil Nadu, India",2 weeks ago,49 applicants,"Work Location : Nagercoil/Work From Office
+
+Kanyakumari candidates will give preference
+
+Required Skills
+
+
+ * Any Technologies
+ * Good Communication Skills
+ * HTML, CSS, Java Script
+ * Hands on experience in designing and developing APIs in .NET and .NET Core, Web services, C#
+ * Familiarity with databases (e.g. MySQL, Mongo DB, Cosmos DB), web servers (e.g. Apache, Nginx)
+ * Basic knowledge in developing and maintaining CI/CD process using tools like ADO,GIT etc
+ * Angular 13, APIGEE and Azure API Manager, SQL DB",Full-time,Executive,Engineering and Information Technology,Information Technology & Services,69080948,,
+3845664127,2024-03-04,,"Software Engineer, Geo",https://in.linkedin.com/jobs/view/software-engineer-geo-at-google-3845664127?trk=public_jobs_topcard-title,Google,https://www.linkedin.com/company/google?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",4 weeks ago,Over 200 applicants,"Minimum qualifications:
+
+
+ * Bachelor’s degree or equivalent practical experience.
+ * 1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+   
+   
+
+Preferred qualifications:
+
+
+ * Master's degree or PhD in Computer Science or related technical field.
+ * Experience developing accessible technologies.
+   
+   
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+The Geo team is focused on building the most accurate, comprehensive, and useful maps for our users, through products like Maps, Earth, Street View, Google Maps Platform, and more. Every month, more than a billion people rely on Maps services to explore the world and navigate their daily lives.
+
+The Geo team also enables developers to use the power of Google Maps platforms to enhance their apps and websites. As they plot a course for the future of mapping, they are solving complex computer science problems, designing beautiful and intuitive product experiences, and improving our understanding of the real world.
+
+Responsibilities
+
+
+ * Write product or system development code.
+ * Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+ * Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+ * Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+ * Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+   
+   
+   
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",Full-time,Not Applicable,Information Technology and Engineering,"Information Services and Technology, Information and Internet",1441,,
+3873254969,2024-03-28,,Software Development Engineer I - Backend Developer,https://in.linkedin.com/jobs/view/software-development-engineer-i-backend-developer-at-urban-company-3873254969?trk=public_jobs_topcard-title,Urban Company,https://in.linkedin.com/company/urbancompany?trk=public_jobs_topcard-org-name,"Gurgaon, Haryana, India",3 days ago,Over 200 applicants,"What are we looking for?
+
+
+ * 0 - 2 years of experience are encouraged to apply for our backend Software Development Engineer (SDE) position
+ * Mobile-first/mobile-web approach and design patterns
+ * Knowledge (and preferably experience) of some backend and advanced front-end frameworks (E.g. React.JS, Grunt, Bower, AngularJS)
+ * Bold and Brilliant - Ownership and problem solving skills
+ * Create and Curate - Demonstrated design sensibilities
+   
+   
+
+What can you expect?
+
+
+ * A phenomenal work environment, with massive ownership and growth opportunities
+ * Quick iterations and deployments – fail-fast attitude
+ * Opportunity to work on cutting edge technologies, and lead small-large teams in the future
+ * Market competitive salaries and stock options
+ * Access to a world-class mentorship network
+ * Massive and direct impact of the work you do on lives of people",Full-time,Entry level,Engineering and Information Technology,"Technology, Information and Internet",31274049,,
+3870373531,2024-03-27,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3870373531?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Noida, Uttar Pradesh, India",4 days ago,109 applicants,"The Data Security team’s mission is to building cloud solutions to support premium features that provide security, compliance, data governance, data loss prevention, and more, in a fully integrated manner from services to clients of Office 365 as well as Windows. We create global scale services to transport, store, secure and manage some of the most sensitive data on the planet and build our services on top of Azure, Exchange and other cloud platforms, and our experiences in Office applications like Outlook. The IDC arm of the team is expanding substantially and is looking for talented and highly motivated engineers. This is an excellent opportunity for anyone who has, or wants to build, expertise in cloud distributed systems, or in security and compliance, or both.
+
+Team will be building cloud solutions meeting scales that few companies in the industry are required to support, that leverage state of the art technologies to deliver holistic protection to a planet scale user base. Office 365 is the industry leader in hosted productivity suites and boasts to be the fastest growing business at Microsoft with more than 100 million seats hosted in multiple data centers across the globe. The SCM Engineering team provides leadership, direction and accountability for application architecture, Cloud design, infrastructures development and end to end implementation. You will independently determine and develop architectural approaches and Infrastructure solutions, conduct business reviews, and operate our production services. Strong collaboration skills will be required to work closely with other engineering teams to ensure services/systems are highly stable and performant and meet the expectations of internal and external customers and users.
+
+Responsibilities
+
+We are looking for someone who is a highly motivated, self-starter who thrives in a bottoms-up, fast paced, highly technical environment, has a strong customer focus and understands the importance of Live Site, has a demonstrated ability to establish and manage relationships across organizational boundaries, has proven experience dealing with large scale data architecture, operational architecture and or network Architecture and proven experience creating distributed systems tools of moderate-to-high complexity. You will be responsible to perform investigations and investments in complex areas; designing and delivering features end to end - including system architecture, code, deployment, scale, performance and quality, from conception to delivery.
+
+
+ * Design and implement scalable, reliable, maintainable services.
+ * Consistently contribute key ideas to the product or service design and vision that meets the customer's needs
+ * Adhere to modern engineering practices, effective coding, writing unit test cases, debugging, code reviewing and creating CI/CD (Continuous Integration/Continuous Delivery) pipelines.
+ * Conduct testing and code reviews to ensure quality code is released to production systems.
+ * Work across geographic and organizational boundaries to define requirements, scope work, develop features, integrate functionality, and meet key performance goals.
+ * Own and drive projects with large scope and complicated features by working toward self-defined goals and milestones.
+ * Deliver on engineering commitments, while keeping customer experience and satisfaction as the overarching goal
+ * Build functional and technical documentation.
+ * Identify and triage bugs, develop fixes to code defects.
+ * Apply metrics to drive the quality and stability of code
+ * Have a sense of pride, commitment, and personal accountability for the service quality, completeness and resulting user experience for the life of the product or service
+   
+   
+
+Expertise/Experience
+
+
+ * Solid understanding of Object-Oriented Programming and common Design Patterns
+ * 1+ years of relevant software development experience and proficient in C# (Java or C++)
+ * In-depth knowledge of cloud development (Azure, AWS, Google Cloud)
+ * Experience developing and shipping Azure Services is a plus
+ * Experience and involvement with DevOps is a plus
+ * Effective communication/collaboration skills, ability to deal with ambiguity and prioritize issues
+ * Collaborating with technical partners to deliver end-to-end solutions
+ * Experience with multithreading and asynchronous processing
+ * Experience with CI/CD pipeline using agile practices
+ * Ability to quickly ramp up on multiple technology areas
+   
+   
+
+Interpersonal Skills
+
+
+ * A sense of personal ownership is required, together with the ability to deliver to tight deadlines while managing internal stakeholder expectations
+ * Self-motivated and organized to deliver results
+   
+   
+
+Qualifications
+
+
+ * BS or MS degree in Computer Science or Engineering OR equivalent years of work experience.
+ * Minimum of 1 years of applicable work experience
+   
+   
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3858555367,2024-03-18,,Software Developer 2,https://in.linkedin.com/jobs/view/software-developer-2-at-oracle-3858555367?trk=public_jobs_topcard-title,Oracle,https://www.linkedin.com/company/oracle?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 weeks ago,Over 200 applicants,"We need engineers who can design & implement individually with good dedication to meet the Business needs. We need candidates who have development experience in the Big Data Ecosystem. The candidate should have a strong knowledge of Data Analysis, Data Transformations, Performance Tuning & Data Engineering ETL pipelines. We are also in need of full-stack developers who can work on data engineering as well as build visualizations using Reporting tools. The Cloud platform experience is a must as we have all our products deployed in the Cloud.
+
+
+
+
+Responsibilities-
+
+
+
+
+ * Analyse, design, code, debug, test, and modify new software or enhancements while considering software abilities.
+ * Create strategic technical designs for small-scope projects within the team.
+ * Provide high-level architecture guidance and develop specifications to resolve software problems.
+ * Consult with stakeholders on current functionality and the complexity of adding features.
+ * Estimate effort for current and future projects of small to medium scope.
+ * Debug complicated issues that span multiple modules and involve complex concurrency or low-level problems.
+ * Propose and lead process improvement projects for development, deployment, or application monitoring.",Full-time,Associate,Information Technology,IT Services and IT Consulting,1028,https://in.linkedin.com/in/rajeshree-gajbhiye-4935b7214,Rajeshree Gajbhiye
+3855413356,2024-03-15,,Web Developer,https://in.linkedin.com/jobs/view/web-developer-at-mahindra-susten-3855413356?trk=public_jobs_topcard-title,Mahindra Susten,https://in.linkedin.com/company/mahindra-susten?trk=public_jobs_topcard-org-name,"Mumbai, Maharashtra, India",2 weeks ago,Over 200 applicants,"1. Proficiency in web development languages for frontend and backend language.
+
+2. Knowledge of web frameworks for interactive user interface.
+
+3. Server Side Development - Data handling perspective.
+
+4. Data Handling - Skills in handling data including fetching, cleaning, preprocessing etc
+
+5. Integration - Ability to integrate front-end and backend components.
+
+6. Version Control.
+
+7. Testing and Debugging - Skills in testing the web application to ensure its functionality, and debugging any issues that arise during development.
+
+8. Security - Awareness of web security principles to protect user data and prevent vulnerabilities such as SQL injection, etc
+
+9. Deployment - Knowledge of deploying web applications either on cloud platforms or using services like Vercel, Netlify etc.
+
+
+
+
+This will be for 2 Months of Internship.",Internship,Internship,Other,Services for Renewable Energy,2814967,,
+3851784403,2024-03-13,,Software Engineer II,https://in.linkedin.com/jobs/view/software-engineer-ii-at-uber-3851784403?trk=public_jobs_topcard-title,Uber,https://www.linkedin.com/company/uber-com?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 weeks ago,Over 200 applicants,"The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code. 
+
+ 
+
+Responsibilities
+ * Develop quality software and web applications
+ * Analyze and maintain existing software applications
+ * Design highly scalable, testable code
+ * Discover and fix programming bugs
+
+
+
+
+Qualifications
+
+
+
+ * Bachelor's degree or equivalent experience in Computer Science or related field
+ * Development experience with programming languages
+ * SQL database or relational database skills
+
+",Full-time,Associate,Engineering and Information Technology,"Software Development, Technology, Information and Internet, and IT System Custom Software Development",1815218,,
+3865157934,2024-03-20,,SDE- 1,https://in.linkedin.com/jobs/view/sde-1-at-infihire-3865157934?trk=public_jobs_topcard-title,InfiHire,https://in.linkedin.com/company/infihire?trk=public_jobs_topcard-org-name,"Gurgaon, Haryana, India",1 week ago,Over 200 applicants,"Overview
+
+As a Software Development Engineer (SDE-1) at our company, you will play a crucial role in the design, development, and maintenance of our software products. You will work closely with cross-functional teams to deliver high-quality, scalable solutions that meet our customers' needs.
+
+Key Responsibilities
+
+
+ * Participate in the entire software development lifecycle, including requirements analysis, design, coding, testing, and deployment
+ * Write clean, efficient, and maintainable code using Java and other relevant technologies
+ * Collaborate with product managers and engineers to translate requirements into technical designs
+ * Conduct code reviews and provide constructive feedback to peers
+ * Troubleshoot and debug issues to ensure smooth operation of the software
+ * Implement best practices for software development, including unit testing, code documentation, and version control
+ * Stay updated on emerging technologies and contribute to continuous improvement initiatives
+ * Participate in team meetings, stand-ups, and brainstorming sessions
+ * Support and mentor junior team members
+ * Adhere to company coding standards and guidelines
+   
+   
+
+Required Qualifications
+
+
+ * Bachelor's degree in Computer Science, Engineering, or a related field
+ * Proven experience in software development and coding using Java
+ * Strong understanding of data structures and algorithms
+ * Experience with software engineering best practices, including design patterns and architectural principles
+ * Ability to work collaboratively in a team environment
+ * Excellent problem-solving and analytical skills
+ * Good understanding of web technologies and services (HTTP, REST, etc.)
+ * Familiarity with version control systems such as Git
+ * Knowledge of Agile methodologies and tools
+ * Excellent communication and interpersonal skills
+ * Experience with cloud technologies is a plus
+ * Ability to adapt to changing priorities and timelines
+ * Passion for learning and self-improvement
+ * Strong attention to detail and a focus on quality
+ * Ability to thrive in a fast-paced, dynamic environment
+   
+   
+
+Skills: rest,web technologies,http,architectural principles,design patterns,microservices,version control systems,agile methodologies,data structures,cloud technologies,springboot,software development,algorithms,java,git",Full-time,Associate,Engineering and Information Technology,"Technology, Information and Internet",14656468,,
+3851745747,2024-03-13,,e,,,,,,,,,,,,undefined,undefined,undefined
+3833865068,2024-03-16,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3833865068?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 weeks ago,Over 200 applicants,"Do you want to enable Copilots to be able to engage users around the world on any platform, including the web, Teams, Facebook, Slack, and IVR voice systems? The Azure Bot Service team, which is part of Microsoft Copilot Studio, is a global, distributed Azure service responsible for delivering over 3 billion messages each month by leveraging highly scalable, multi-tenant, secure channel services that make copilot building simple. We are looking for an exceptional engineer who is passionate about our vision to enable copilots to engage with users in meaningful and robust ways. Copilots are a multi-billion-dollar opportunity for Microsoft and Azure Bot Service supports the Citizen Application Platform (CAP) aka Power Platform, pro-developers building on top of Azure, as well as extensions to M365 through Teams and Outlook. Together, this allows Azure Bot Service to both generate its own revenue for Microsoft as well as to drive revenue through M365 and Power Platform licenses.
+
+The Azure Bot Service team seeks an adept engineer to drive the technical intricacies of diverse middle tier and backend service projects across Azure Cognitive Services, storage, caching, messaging services, Teams, Entra/AAD, and beyond. Collaboration is at our core, valuing every team member's input. As a software engineer, you'll spearhead the design, implementation, and upkeep of large-scale services and APIs within Azure. Your focus will be on crafting highly scalable, low-latency, always-on, and cost-effective solutions. Championing optimal design and architecture, you'll influence peers and establish best practices. Collaborating across teams, you'll integrate products like Microsoft Copilot Studio, Teams, Digital Contact Center, Outlook, and SharePoint. You'll own features from development to production, prioritizing automated testing for scalable, quality-driven continuous delivery. Our agile, data-centric environment empowers engineers to innovate and scale ideas swiftly.
+
+Knowledge of running Azure or similarly scaled services is a plus, as is experience delivering world-class distributed services using including security and privacy reviews, service deployment/SDL, least privilege operational processes, customer-centric support. Learn more about Azure Bot Service here.
+
+#conversationalai
+
+#copilotstudio
+
+#azurebotservice
+
+#abs
+
+Responsibilities
+
+
+ * Collaborate with partner teams (both service and data science) to deliver end-to-end systems and experiences.  
+ * Investigate and prototype new technologies and frame works in Azure. 
+ * Design, implement, and test server-side code related to Routing, Manageability and Compute Hosting.  
+ * Ensure availability, latency, scalability needs addressed by engineering reliability into software and systems.  
+ * Focus on operability of the service including security, privacy, resiliency, Business Continuity & disaster recovery.  
+ * Contribute to team-wide infrastructure investments.   
+ * Review and influence ongoing design, architecture, standards and methods for operating services or systems.  
+ * Maintain an unwavering focus on Quality of Service. Execute with high accountability.  
+   
+   
+
+￼
+
+Qualifications
+
+Required Qualifications:   
+
+
+ * �� Minimum 2+ years of experience in software development using .Net (C#, Web API, REST)   
+ * Minimum  2+ years of experience in distributed computing
+   
+   
+
+Preferred Qualifications:   
+
+
+ * Minimum of a bachelor’s degree in Computer Science, Computer Engineering, Software Design, Software Engineering, or a related field, or equivalent alternative education, skills, and/or practical experience is required.
+ *  2+ years of industry experience in service development, successfully shipping services through multiple releases. 
+ * The ideal candidate is an experienced Software Development Engineer with a proven track record of delivering products.  
+ * Familiarity with chat bots and NLP concepts is a plus but not required. 
+ * Experience with Azure cloud platform or equivalent.  
+ * Real-world experience developing large scale online services with robust performance, resiliency, telemetry, and security.  
+ * Experience developing service to service protocols
+ * Experience with service and user identity models, access or identity token acquisition and management
+ * Comfortable driving complex server & client architecture across large product teams.  
+ * Strong collaboration skills with the ability to work in a dynamic/agile environment.   
+ * A passion for improving engineering practices and producing high quality software.  
+ * Self-motivated and customer focused.  
+ * Strong written and verbal communication skills.
+ * Do you have a BS/MS degree or 3+ years of related work experience?
+ * Do you have 2+ years of experience delivering commercial software products?
+ * Do you have 2+ years of experience in at least one of the following: C#, Java, C++, distributed systems, REST APIs, web services?
+   
+   
+
+#BETJobs #BAPJobs
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3870375464,2024-03-27,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3870375464?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",4 days ago,Over 200 applicants,"The Security Platform team’s mission is to building cloud solutions to support premium features that provide security, compliance, data governance, data loss prevention, and more, in a fully integrated manner from services to clients of Office 365 as well as Windows. We create global scale services to transport, store, secure and manage some of the most sensitive data on the planet and build our services on top of Azure, Exchange and other cloud platforms, and our experiences in Office applications like Outlook. The IDC arm of the team is expanding substantially and is looking for talented and highly motivated engineers. This is an excellent opportunity for anyone who has, or wants to build, expertise in cloud distributed systems, or in security and compliance, or both.
+
+Team will be building cloud solutions meeting scales that few companies in the industry are required to support, that leverage state of the art technologies to deliver holistic protection to a planet scale user base. Office 365 is the industry leader in hosted productivity suites and boasts of being the fastest growing business at Microsoft with more than 100 million seats hosted in multiple data centers across the globe. The Security Platform team provides leadership, direction and accountability for application architecture, cloud design, infrastructures development and end to end implementation. You will independently determine and develop architectural approaches and Infrastructure solutions, conduct business reviews, and operate our production services. Strong collaboration skills will be required to work closely with other engineering teams to ensure services/systems are highly stable and performant and meet the expectations of internal and external customers and users.
+
+Responsibilities
+
+We are looking for someone who is a highly motivated, self-starter who thrives in a bottoms-up, fast paced, highly technical environment, has a strong customer focus and understands the importance of Live Site, has a demonstrated ability to establish and manage relationships across organizational boundaries, has proven experience dealing with large scale data architecture, operational architecture and or network architecture and proven experience creating distributed systems tools of moderate-to-high complexity. You will be responsible to perform investigations and investments in complex areas; designing and delivering features end to end - including system architecture, code, deployment, scale, performance and quality, from conception to delivery.
+
+
+ * Design and implement scalable, reliable, maintainable services.
+ * Consistently contribute key ideas to the product or service design and vision that meets the customer's needs
+ * Adhere to modern engineering practices, effective coding, writing unit test cases, debugging, code reviewing and creating CI/CD (Continuous Integration/Continuous Delivery) pipelines.
+ * Conduct testing and code reviews to ensure quality code is released to production systems.
+ * Work across geographic and organizational boundaries to define requirements, scope work, develop features, integrate functionality, and meet key performance goals.
+ * Own and drive projects with large scope and complicated features by working toward self-defined goals and milestones.
+ * Deliver on engineering commitments, while keeping customer experience and satisfaction as the overarching goal
+ * Build functional and technical documentation.
+ * Identify and triage bugs, develop fixes to code defects.
+ * Apply metrics to drive the quality and stability of code
+ * Have a sense of pride, commitment, and personal accountability for the service quality, completeness and resulting user experience for the life of the product or service
+   
+   
+
+Qualifications
+
+
+ * Solid understanding of Object-Oriented Programming and common Design Patterns.
+ * 2 + years of relevant software development experience and proficient in C# (Java or C++)
+ * Familiarity with SQL and NoSQL databases, and good hands-on knowledge of operating systems like Linux or Windows.
+ * Good knowledge of cloud development (Azure, AWS, Google Cloud)
+ * Familiarity with working in Kubernetes, Rest API design and construction. Able to effectively use the cloud API and construct large scale Microservices.
+ * Aware of secure coding practices and data structures
+ * Experience and involvement with DevOps is a plus
+ * Effective communication/collaboration skills, ability to deal with ambiguity and prioritize issues.
+ * Collaborating with technical partners to deliver end-to-end solutions.
+ * Experience with multithreading and asynchronous processing patterns.
+ * Experience with CI/CD pipeline using agile practices.
+ * Ability to quickly ramp up on multiple technology areas
+   
+   
+
+Interpersonal Skills
+
+
+ * A sense of personal ownership is required, together with the ability to deliver to tight deadlines while managing internal stakeholder expectations.
+ * Self-motivated and organized to deliver results.
+   
+   
+
+Essential Qualifications
+
+
+ * BS or MS degree in Computer Science or Engineering OR equivalent years of work experience.
+ * Minimum of 2 years of applicable work experience
+   
+   
+
+#MSFTSecurity #SPE # SPDSCGP
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3868956265,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868956265?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Noida, Uttar Pradesh, India",5 days ago,102 applicants,"Come be a part of Microsoft’s new Strategic Missions and Technologies team, evolving Azure Space, Quantum computing, Federal, telco, and Silicon Industries. This new division is growing and providing opportunities for high visibility and impact. As we expand high performance computing, we are applying the latest in secure collaborative technologies to our growing Azure cloud capabilities. Be part of a new business stand-up and help us expand our strategic global industries with thought leadership in key technologies such as distributed large scale secure, high-performance computing. The Azure Modeling and Simulation Workbench team is responsible for designing and delivering an Azure cloud solution for developing, launching and servicing modeling and simulation products for both commercial as well as US Government sectors.
+
+SMT is on an exciting journey of growth and innovation, and we are thrilled to invite passionate and dynamic individuals to join our newly established and rapidly growing team in India. As we expand our global presence, we are seeking a Software Engineer-II to be a key contributor to our evolving development center.
+
+Our diversity of knowledge and experience comes together for the benefit of our customers, our colleagues, our business, and ourselves. As we grow, our team actively seeks out and values diversity of background, thought, and disciplines. We enjoy great challenges, collaboration and seeing our customers succeed while we evolve our platform. We are an agile team, have a growth mind-set, deeply passionate about our customers and developing quality software. We invest in career progression and learning opportunities. Join us and build the future of global computing and connectivity!
+
+This technical role presents a robust opportunity to have a tangible impact on our cloud products and advance product strategy, as well as fuel our customers’ success. Intentional collaboration is a must in this role.
+
+Responsibilities
+
+Responsibilities
+
+
+ * Deliver solutions through software development with a high degree of focus on quality code, innovation, and strong communications through documentation
+ * Participate actively in code development, code reviews, bug/issue triage within the engineering team
+   
+   
+
+Qualifications
+
+Required Qualifications
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with 2+ years of proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+    * OR equivalent experience.
+
+ * Understanding of software development methodologies and best practices
+   
+
+Bonus Qualifications
+
+
+ * Technical knowledge of Azure cloud architecture and services (IaaS, containers, orchestrators), or similar experience with AWS or GCP
+ * Worked on scalable distributed solutions built for cloud scale resiliency
+ * Familiarity with Azure Services, networking and security a big plus
+ * A positive team player that values and cultivates inclusion, conscious collaboration, growth mindset, leading by example and customer obsession
+ * Desire to learn and adapt to the ever-changing cloud technologies
+   
+   
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+#MissionEngineering
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3868951761,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868951761?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",5 days ago,164 applicants,"Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.
+
+Microsoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.
+
+Within Azure Data, the Microsoft Fabric platform team builds and maintains the operating system and provides customers a unified data stack to run an entire data estate. The platform provides a unified experience, unified governance, enables a unified business model and a unified architecture. 
+
+Within the Microsoft fabric platform team, we are the Core platform team. Our team is responsible of the main compute platform on which all Fabric products are running. Our service is highly scalable and highly available and we are one of the biggest Azure services in the world. We develop features directly for customers but also features for the Fabric products that run on our platform. The Core platform service is a stateful service build on Azure Service Fabric and ContainerD. We use many Azure technologies from Storage, Premium Files, Service Bus, Event Hub, Event Grid, Kusto to SQL Azure, Cosmos DB and Azure Redis.
+
+We are looking for a Software Engineer II with experience working with all service aspects of high throughput and multi-tenant services, ability to design components carefully, properly handle errors, write clean and well-factored code with good tests and good maintainability. Our ideal candidate will have middle tier or backend service development experience.
+
+We do not just value differences or different perspectives. We seek them out and invite them in so we can tap into the collective power of everyone in the company. As a result, our customers are better served.
+
+Responsibilities
+
+Design high quality components in C#/Java using clean and tested code. 
+
+Integrate Azure technologies to achieve high scale and reliability.  
+
+Lead architecture, design, and develop features and solutions with high quality.
+
+Design, implement, and refine chosen solutions in close partnership with Product Management and partner teams.
+
+Review and contribute to the specifications and implementations written by other team members. 
+
+Provide technical leadership across features, projects, service fundamentals, and tools.
+
+Mentor new engineers to bring them up to speed in software development environment.
+
+Embody our culture and values
+
+Qualifications
+
+Required/Minimum Qualifications
+
+Bachelor's Degree in Computer Science, or related technical discipline
+
+Other Requirements
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check:
+
+
+ * This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+   
+   
+
+Preferred/Additional Qualifications
+
+Bachelor's Degree in Computer Science or related technical field
+
+2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+
+#azdat
+
+#azuredata
+
+#seniordeveloper #backend #middletier #CSharp #Azure #Fabric
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3873758249,2024-03-30,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3873758249?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 days ago,Over 200 applicants,"Azure Storage group is chartered with building, managing, and running the persistent cloud storage for Microsoft Azure cloud. We are one of the foundational services in the Azure Cloud and host data from some of the largest companies in the world plus all of Microsoft’s largest online businesses including Xbox, Teams, and Bing.
+
+Azure Files team in Azure Storage is looking for talented developers with a strong and proven record of top-notch design and development skills who can drive design, implementation, and validation of Azure’s foundational file sharing service supporting Server Message Block (SMB), Common Internet File System (CIFS), Network File System (NFS) and Representational State Transfer (REST) protocols, that is fully compatible with on-premises file servers, both Windows and Linux-based, can scale up to exabytes of storage, and provide world-class reliability, performance, and security.
+
+We are a high-performance team working on the cutting edge of file storage solutions in the cloud as well as on-prem/hybrid space, and you will have plenty to learn, innovate on, and grow with a broad scope for impact, in the areas of distributed systems, cloud storage and remote file systems.
+
+You will get to work with and learn from a team of very talented engineers with vast experience in the field of storage and file systems.
+
+You will have an opportunity to research technologies and propose solutions, evaluate design options, make recommendations and decisions, implement solid and efficient engineering practices, and work cross-group with our partners to build world-class end-to-end solutions that will delight our customers.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+
+ * Works with appropriate stakeholders to determine user requirements for a feature.
+ * Supports identification of dependencies, and the development of design documents for a product feature with oversight.
+ * With guidance, learns to create and implement code for a product, service, or feature reusing code as applicable.
+ * Assists and learns about breaking down work items into tasks and provides estimation.
+ * Acts as a Designated Responsible Individual (DRI) in monitoring system/product feature/service for degradation, downtime, or interruptions for simple problems, and recommends actions to restore system/product/service by following the playbook.
+ * Reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+   
+   
+
+Qualifications
+
+Required Qualifications:
+
+
+ * Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, or Java,
+    * OR equivalent experience.
+      
+
+Other Qualifications
+
+
+ * Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+    * Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+      
+
+Preferred Qualifications
+
+
+ * Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, or Java,
+    * OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, or Java,
+    * OR equivalent experience.
+      
+
+#azurecorejobs
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3865879134,2024-03-21,,Web Developer,https://in.linkedin.com/jobs/view/web-developer-at-gururo-3865879134?trk=public_jobs_topcard-title,Gururo,https://in.linkedin.com/company/gururo?trk=public_jobs_topcard-org-name,"Bangalore Urban, Karnataka, India",1 week ago,Over 200 applicants,"Job Responsibilities
+
+
+ * Write well designed, testable, efficient code by using best software development practices
+ * Create website layout/user interface by using standard HTML/CSS practices
+ * Integrate data from various back-end services and databases
+ * Gather and refine specifications and requirements based on technical needs
+ * Create and maintain software documentation
+ * Be responsibile for maintaining, expanding, and scaling our site
+ * Stay plugged into emerging technologies/industry trends and apply them into operations and activities
+ * Cooperate with web designers to match visual design intent
+   
+   
+
+Job Skills
+
+
+ * Proven working experience in web programming
+ * Top-notch programming skills and in-depth knowledge of modern HTML/CSS
+ * Familiarity with at least one of the following programming languages: PHP, ASP.NET, Javascript or Ruby on Rails
+ * A solid understanding of how web applications work including security, session management, and best development practices
+ * Adequate knowledge of relational database systems, Object Oriented Programming and web application development
+ * Hands-on experience with network diagnostics, network analytics tools
+ * Basic knowledge of Search Engine Optimization process
+ * Aggressive problem diagnosis and creative problem solving skills
+ * Strong organizational skills to juggle multiple tasks within the constraints of timelines and budgets with business acumen
+ * Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques.
+ * BS in computer science or a related field",Full-time,Entry level,Engineering and Information Technology,Higher Education,68695739,,
+3845911940,2024-03-04,,Software Engineer-Fresher,https://in.linkedin.com/jobs/view/software-engineer-fresher-at-symb-technologies-3845911940?trk=public_jobs_topcard-title,SYMB Technologies,https://in.linkedin.com/company/symb-technologies?trk=public_jobs_topcard-org-name,"Noida, Uttar Pradesh, India",3 weeks ago,Over 200 applicants,"Job Description
+
+This is a remote position.
+
+About SYMB Technologies:
+
+SYMB Technologies is an 8 year old, Technology company headquartered out of Noida &
+
+working with customers across geographies like US, Canada, Europe, UAE, Singapore &
+
+India.
+
+We work closely with startups & SMEs directly with the founding team/CXOs with great
+
+background to create some of the world's break through technology products.
+
+Our customers include likes of startups like: Grab Taxi(Singapore), Khatabook (India), Swiggy
+
+(India), Sirona (India), Solextron (Switzerland), FindmyNeighbourhood (Canada), etc. to MNCs
+
+like Aster DM Healthcare(UAE), Hindalco(India) & other.
+
+We Help Them In:
+
+
+ * End-to-End product development
+ * Ideation & Product Design
+ * Planning & Tech Architecture Design
+ * Product Delivery & Execution
+   
+   
+
+We are currently work remotely across India from our homes with our base office in Noida,
+
+National Capital Region, India.
+
+We are a small but strong team of 55 people (& growing), All engineering & technology grads
+
+with strong capabilities in
+
+
+ * Python-based frameworks - Flask & Django on the backend
+ * React-based frameworks - React/Next JS & React Native on frontend & mobile
+ * Clouds - AWS, GCP, Azure
+   
+   
+
+We are looking for fresher who want to build a career as software engineers in the above
+
+technology stack. We have great projects & work on cutting edge technology stack in web,
+
+mobile & cloud domain.
+
+We have a small form for you hoping that you will fill it patiently & looking forward to your
+
+participation in the drive.
+
+Software Engineer(Fresher)
+
+Job Description
+
+We are looking for a Software Developer to build and implement functional programs. You will
+
+work with other Developers throughout the software development life cycle.
+
+Year of Experience: 0 yrs - 2 yrs
+
+Education Required: B-Tech, BE with 70% aggregate marks
+
+12th - 70% and above
+
+10th - 70% and above
+
+Training & Probation Period: 6 months
+
+CTC during Probation: 12,000 - 15,000 INR per month
+
+CTC post Probation Period: 3.5 - 4 LPA (Lakhs per annum) based on the performance of the
+
+candidate.
+
+Responsibilities:
+
+
+ * Work with developers to design algorithms and flowcharts
+ * Produce clean, efficient code based on specifications
+ * Integrate software components and third-party programs
+ * Troubleshoot, debug and upgrade existing software
+   
+   
+
+A Bit More About Your Role:
+
+We’ll train you to be an expert in your field, so you can be confident in providing the highest
+
+level of service possible through all modes of Software Development whether it's Web or
+
+Mobile.
+
+We trust you already have the necessary ingredient that can’t be taught – a caring and
+
+supportive nature that will shine through as you help our esteemed customers. You’ll also have
+
+a chance to make great new friends within the SYMB community and grow your career in a
+
+dynamic, friendly atmosphere.
+
+You'll report to a Reporting Manager. You’ll contribute to the success of the customer experience
+
+as well as the overall success of the team.
+
+Requirements
+
+Requirements:
+
+
+ * Knowledge with software design and development in a test-driven environment
+ * Knowledge of coding languages (e.g. C++, Java, JavaScript)
+ * Experience with OOPs and data structure
+ * Ability to learn new languages and technologies
+ * Excellent communication skills
+ * Resourcefulness and troubleshooting aptitude
+ * Flexible with working onsite: Location: Noida
+ * Strong communication skills
+ * An analytical mind with problem-solving abilities
+ * Work Location: Noida (Hybrid Mode)
+   
+   
+
+Benefits
+
+
+ * We understand the importance of a seamless work environment. To ensure you have the best
+   
+   
+
+tools at your disposal, we provide a WiFi allowance to help you stay connected and
+
+productive.
+
+
+ * We equip our employees with the resources they need to succeed. You'll receive a company
+   
+   
+
+laptop, turning your workspace into a hub of efficiency and innovation.
+
+
+ * We recognize the importance of flexibility in today's work landscape with Work Frome Policy.
+ * Enjoy thoughtful gifts on festivals and birthdays, fostering a sense of camaraderie and
+   
+   
+
+appreciation within our close-knit team.
+
+Requirements
+
+Requirements:
+
+
+ * Knowledge with software design and development in a test-driven environment
+ * Knowledge of coding languages (e.g. C++, Java, JavaScript)
+ * Experience with OOPs and data structure
+ * Ability to learn new languages and technologies
+ * Excellent communication skills
+ * Resourcefulness and troubleshooting aptitude
+ * Flexible with working onsite: Location: Noida
+ * Strong communication skills
+ * An analytical mind with problem-solving abilities
+ * Work Location: Noida (Hybrid Mode)",Full-time,Entry level,Engineering and Information Technology,IT Services and IT Consulting,4792474,,
+3868958127,2024-03-26,,e,,,,,,,,,,,,undefined,undefined,undefined
+3845914584,2024-03-04,,Software Engineer-Fresher,https://in.linkedin.com/jobs/view/software-engineer-fresher-at-symb-technologies-3845914584?trk=public_jobs_topcard-title,SYMB Technologies,https://in.linkedin.com/company/symb-technologies?trk=public_jobs_topcard-org-name,"Uttar Pradesh, India",3 weeks ago,Over 200 applicants,"Job Description
+
+This is a remote position.
+
+About SYMB Technologies:
+
+SYMB Technologies is an 8 year old, Technology company headquartered out of Noida &
+
+working with customers across geographies like US, Canada, Europe, UAE, Singapore &
+
+India.
+
+We work closely with startups & SMEs directly with the founding team/CXOs with great
+
+background to create some of the world's break through technology products.
+
+Our customers include likes of startups like: Grab Taxi(Singapore), Khatabook (India), Swiggy
+
+(India), Sirona (India), Solextron (Switzerland), FindmyNeighbourhood (Canada), etc. to MNCs
+
+like Aster DM Healthcare(UAE), Hindalco(India) & other.
+
+We Help Them In:
+
+
+ * End-to-End product development
+ * Ideation & Product Design
+ * Planning & Tech Architecture Design
+ * Product Delivery & Execution
+   
+   
+
+We are currently work remotely across India from our homes with our base office in Noida,
+
+National Capital Region, India.
+
+We are a small but strong team of 55 people (& growing), All engineering & technology grads
+
+with strong capabilities in
+
+
+ * Python-based frameworks - Flask & Django on the backend
+ * React-based frameworks - React/Next JS & React Native on frontend & mobile
+ * Clouds - AWS, GCP, Azure
+   
+   
+
+We are looking for fresher who want to build a career as software engineers in the above
+
+technology stack. We have great projects & work on cutting edge technology stack in web,
+
+mobile & cloud domain.
+
+We have a small form for you hoping that you will fill it patiently & looking forward to your
+
+participation in the drive.
+
+Software Engineer(Fresher)
+
+Job Description
+
+We are looking for a Software Developer to build and implement functional programs. You will
+
+work with other Developers throughout the software development life cycle.
+
+Year of Experience: 0 yrs - 2 yrs
+
+Education Required: B-Tech, BE with 70% aggregate marks
+
+12th - 70% and above
+
+10th - 70% and above
+
+Training & Probation Period: 6 months
+
+CTC during Probation: 12,000 - 15,000 INR per month
+
+CTC post Probation Period: 3.5 - 4 LPA (Lakhs per annum) based on the performance of the
+
+candidate.
+
+Responsibilities:
+
+
+ * Work with developers to design algorithms and flowcharts
+ * Produce clean, efficient code based on specifications
+ * Integrate software components and third-party programs
+ * Troubleshoot, debug and upgrade existing software
+   
+   
+
+A Bit More About Your Role:
+
+We’ll train you to be an expert in your field, so you can be confident in providing the highest
+
+level of service possible through all modes of Software Development whether it's Web or
+
+Mobile.
+
+We trust you already have the necessary ingredient that can’t be taught – a caring and
+
+supportive nature that will shine through as you help our esteemed customers. You’ll also have
+
+a chance to make great new friends within the SYMB community and grow your career in a
+
+dynamic, friendly atmosphere.
+
+You'll report to a Reporting Manager. You’ll contribute to the success of the customer experience
+
+as well as the overall success of the team.
+
+Requirements
+
+Requirements:
+
+
+ * Knowledge with software design and development in a test-driven environment
+ * Knowledge of coding languages (e.g. C++, Java, JavaScript)
+ * Experience with OOPs and data structure
+ * Ability to learn new languages and technologies
+ * Excellent communication skills
+ * Resourcefulness and troubleshooting aptitude
+ * Flexible with working onsite: Location: Noida
+ * Strong communication skills
+ * An analytical mind with problem-solving abilities
+ * Work Location: Noida (Hybrid Mode)
+   
+   
+
+Benefits
+
+
+ * We understand the importance of a seamless work environment. To ensure you have the best
+   
+   
+
+tools at your disposal, we provide a WiFi allowance to help you stay connected and
+
+productive.
+
+
+ * We equip our employees with the resources they need to succeed. You'll receive a company
+   
+   
+
+laptop, turning your workspace into a hub of efficiency and innovation.
+
+
+ * We recognize the importance of flexibility in today's work landscape with Work Frome Policy.
+ * Enjoy thoughtful gifts on festivals and birthdays, fostering a sense of camaraderie and
+   
+   
+
+appreciation within our close-knit team.
+
+Requirements
+
+Requirements:
+
+
+ * Knowledge with software design and development in a test-driven environment
+ * Knowledge of coding languages (e.g. C++, Java, JavaScript)
+ * Experience with OOPs and data structure
+ * Ability to learn new languages and technologies
+ * Excellent communication skills
+ * Resourcefulness and troubleshooting aptitude
+ * Flexible with working onsite: Location: Noida
+ * Strong communication skills
+ * An analytical mind with problem-solving abilities
+ * Work Location: Noida (Hybrid Mode)",Full-time,Entry level,Engineering and Information Technology,IT Services and IT Consulting,4792474,,
+3840903621,2024-02-29,,"Software Engineer UI (React) - Ahmedabad, India",https://in.linkedin.com/jobs/view/software-engineer-ui-react-ahmedabad-india-at-qatar-airways-3840903621?trk=public_jobs_topcard-title,Qatar Airways,https://qa.linkedin.com/company/qatar-airways?trk=public_jobs_topcard-org-name,"Ahmedabad, Gujarat, India",1 month ago,Over 200 applicants,"About The Role
+
+In this role, you will serve as a technical developer pushing technologies to the limits. Work with our cross-technical teams to design and build the next generation applications keeping a mobile first approach where business so demands while adhering to standard coding practices
+
+Key Responsibilities
+
+
+ * Develop high quality and reliable code with unit test cases, meeting given specifications.
+ * Ensures the developed code covers the non-functional requirements including performance, security, auditing and integrity.
+ * Resolve production incidents or defects as needed, and proactively identify potential issues. before they appear in the production environment; contribute to the root cause analysis.
+ * Work well within a team and always work for team success by supporting other team members, constructively acting on feedback, and identifying challenging opportunities that enhance career growth.
+ * Contribute in in defining secure coding standards, and work in a team to follow best practices to ensure quality, scalability, and security of deliverables.
+ * Working closely with technology and business teams within an Agile/Scrum/CMMI model
+ * Ensuring complete adherence to defined architecture and design.
+ * Making sure that the written code follows all the coding and security standards.
+ * Ensuring coding standards have been followed.
+ * Tackle challenges and ability to solve complex problems.
+   
+   
+
+Be part of an extraordinary story
+
+Your skills. Your imagination. Your ambition. Here, there are no boundaries to your potential and the impact you can make. You’ll find infinite opportunities to grow and work on the biggest, most rewarding challenges that will build your skills and experience. You have the chance to be a part of our future, and build the life you want while being part of an international community. Our best is here and still to come. To us, impossible is only a challenge. Join us as we dare to achieve what’s never been done before.
+
+Together, everything is possible
+
+About You
+
+
+ * Bachelor’s Degree or Honors in Engineering/ Computer science/Mathematics/Sciences/Commerce or Equivalent with minimum 3 years with 2 years of job-related experience.
+ * Extensive UI development experience with minimum 2 years across technologies like React,Node
+ * Familiar with Component-based architecture such as React and Web Components
+ * In-depth knowledge of JavaScript(ES6), CSS3, HTML5,SAS - Broad experience in JS-based UI technologies: React, Bootstrap, Redux, Webpack, Web Components, Nodejs.
+ * Strong analytical and problem-solving skill
+ * Ensure web pages are optimized for speed and scalability across all platform’s desktop and mobile
+ * Optimizing web applications for maximum speed and scalability, and ensuring better user experience across various devices and browsers
+ * Excellent verbal and written communication skills.
+ * Knowledge of an Airline's Flight Operations data domain (Flight and Crew related domain) will be added advantage
+ * Knowledge of JIRA / Azure DevOps boards, OpenShift will be added advantage
+ * Knowledge of Cloud Native application development will be added advantage
+   
+   
+
+About Qatar Airways Group
+
+Our story started with four aircraft. Today, we deliver excellence across 12 different businesses coming together as one. We’ve grown fast, broken records and set trends that others follow. We don’t slow down by the fear of failure. Instead, we dare to achieve what’s never been done before.
+
+So whether you’re creating a unique experience for our customers or innovating behind the scenes, every person contributes to our proud story. A story of spectacular growth and determination. Now is the time to bring your best ideas and passion to a place where your ambition will know no boundaries, and be part of a truly global community",Full-time,Entry level,General Business,"Airlines and Aviation, Aviation and Aerospace Component Manufacturing, and Freight and Package Transportation",10834,,
+3851729654,2024-03-13,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-cloudbees-3851729654?trk=public_jobs_topcard-title,CloudBees,https://www.linkedin.com/company/cloudbees?trk=public_jobs_topcard-org-name,"Bangalore Urban, Karnataka, India",2 weeks ago,Over 200 applicants,"Description
+
+About CloudBees
+
+CloudBees provides the leading software delivery platform for enterprises, enabling them to continuously innovate, compete, and win in a world powered by the digital experience. Designed for the world's largest organizations with the most complex requirements, CloudBees enables software development organizations to deliver scalable, compliant, governed, and secure software from the code a developer writes to the people who use it. The platform connects with other best-of-breed tools, improves the developer experience, and enables organizations to bring digital innovation to life continuously, adapt quickly, and unlock business outcomes that create market leaders and disruptors.
+
+
+
+
+CloudBees was founded in 2010 and is backed by Goldman Sachs, Morgan Stanley, Bridgepoint Credit, HSBC, Golub Capital, Delta-v Capital, Matrix Partners, and Lightspeed Venture Partners. Visit www.cloudbees.com and follow us on Twitter, LinkedIn, and Facebook.
+
+
+
+
+About the Role
+
+As a Software Engineer at CloudBees, you will be an essential contributor to the development of our industry-leading software products. You'll work within the Continuous Integration collaborative team environment to design, develop, and deliver high-quality solutions that empower our customers to achieve seamless and efficient software delivery.
+
+
+
+
+What You'll Do
+
+ * Design, develop, and maintain DevOps solutions that enable organizations to streamline their software development and delivery processes. This includes creating tools, plugins, and integrations that enhance the capabilities of the CloudBees product suite.
+ * Implement best practices for code quality, automated testing, and code reviews to ensure software reliability and performance. Write unit tests, integration tests, and perform code reviews to maintain high standards.
+ * Work on new feature development and product enhancements based on customer feedback and industry trends. Continuously innovate and propose improvements to existing software solutions
+ * Analyze and address complex technical challenges and issues that arise during the software development lifecycle. Debug, troubleshoot, and resolve technical problems efficiently.
+ * Create and maintain technical documentation, including design specifications, user guides, and best practice guidelines. Share knowledge and contribute to internal and external technical communities.
+ * Participate in Agile ceremonies, such as sprint planning, stand-up meetings, and retrospectives. Collaborate with product managers, designers, and other engineers to ensure alignment and efficient project execution.
+
+Requirements
+
+ * Bachelor's degree in Computer Science or a related technical field
+ * Experience developing with Java/Python (>2 years).
+ * Understanding of AWS, Azure, Google Cloud.
+ * Proficiency in scripting languages (e.g., Shell Script, Perl, Groovy)
+ * Experience in Github, JBoss, Jira, Zookeeper, Helm, Maven, Jenkins
+ * Experience in Kubernetes, DevOps methodologies, and containerization technologies
+ * Knowledge of developer tools such as Continuous Integration/Continuous Delivery systems, test tools, code quality tools, planning tools, IDEs and debugging tools.
+ * Excellent problem solving and communication skills.
+ * Familiarity with HTTP, REST, HTML, JSON, and similar web-based development technologies, and with building complex multi-tier parallel distributed systems that communicate via them (such as the backend of complex websites)
+ * Ability to be self sufficient given the proper guidance.
+ * Self-motivated and driven personality.
+ * Fully proficient in English written and spoken language.
+ * Comfortable working closely with support, customers and community to help resolve issues.
+
+
+
+
+We’re invested in you!
+
+We offer generous paid time off to allow our employees time to rest, recharge and to be present with family and friends throughout the year. At CloudBees, we truly believe that the more diverse we are, the better we serve our customers. A global community like Jenkins demands a global focus from CloudBees. Organizations with greater diversity—gender, racial, ethnic, and global—are stronger partners to their customers.
+
+
+
+
+Whether by creating more innovative products, or better understanding our worldwide customers, or establishing a stronger cross-section of cultural leadership skills, diversity strengthens all aspects of the CloudBees organization. In the technology industry, diversity creates a competitive advantage.
+
+
+
+
+CloudBees customers demand technologies from us that solve their software development, and therefore their business problems, so that they can better serve their own customers. CloudBees attributes much of its success to its worldwide work force and commitment to global diversity, which opens our proprietary software to innovative ideas from anywhere.
+
+
+
+
+Along the way, we have witnessed firsthand how employees, partners, and customers with diverse perspectives and experiences contribute to creative problem-solving and better solutions for our customers and their businesses.
+
+
+
+
+Scam Notice
+
+Please be aware that there are individuals and organizations that may attempt to scam job seekers by offering fraudulent employment opportunities in the name of CloudBees. These scams may involve fake job postings, unsolicited emails, or messages claiming to be from our recruiters or hiring managers. Please note that CloudBees will never ask for any personal account information, such as cell phone, credit card details or bank account numbers, during the recruitment process. Additionally, CloudBees will never send you a check for any equipment prior to employment.
+
+
+
+
+All communication from our recruiters and hiring managers will come from official company email addresses (@cloudbees.com) or from Paylocity and will never ask for any payment, fee to be paid or purchases to be made by the job seeker. If you are contacted by anyone claiming to represent CloudBees and you are unsure of their authenticity, please do not provide any personal/financial information and contact us immediately at tahelp@cloudbees.com.
+
+
+
+
+We take these matters very seriously and will work to ensure that any fraudulent activity is reported and dealt with appropriately. If you feel like you have been scammed in the US, please report it to the Federal Trade Commission at: https://reportfraud.ftc.gov/#/.
+
+
+
+
+In Europe, please contact the European Anti-Fraud Office at: https://anti-fraud.ec.europa.eu/olaf-and-you/report-fraud_en.
+
+
+
+
+Signs of a Recruitment Scam
+
+· Ensure there are no other domains before or after @cloudbees.com. For example: “name.dr.cloudbees.com”
+
+· Check any documents for poor spelling and grammar – this is often a sign that fraudsters are at work.
+
+· If they provide a generic email address such as @Yahoo or @Hotmail as a point of contact.
+
+· You are asked for money, an “administration fee”, “security fee” or an “accreditation fee”.
+
+· You are asked for cell phone account information.
+
+
+
+
+ * #LI-Hybrid/Bangalore",Full-time,Associate,Information Technology,Software Development,1189836,,
+3840903621,2024-02-29,,e,,,,,,,,,,,,undefined,undefined,undefined
+3851729654,2024-03-13,,e,,,,,,,,,,,,undefined,undefined,undefined
+3864815735,2024-03-21,,"Software Engineer II, Front End, Payments",https://in.linkedin.com/jobs/view/software-engineer-ii-front-end-payments-at-google-3864815735?trk=public_jobs_topcard-title,Google,https://www.linkedin.com/company/google?trk=public_jobs_topcard-org-name,"Hyderabad, Telangana, India",1 week ago,Over 200 applicants,"Minimum qualifications:
+
+
+ * Bachelor’s degree or equivalent practical experience.
+ * 1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, Javascript).
+ * 1 year of experience with data structures or algorithms.
+   
+   
+
+Preferred qualifications:
+
+
+ * Master's degree or PhD in Computer Science or related technical field.
+ * 1 year of experience with front-end frameworks, full-stack development, and/or API development.
+ * Experience developing accessible technologies.
+   
+   
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+Whether it is paying online with Autofill, using tap and pay in stores, or using the Google Pay app, the Payments team at Google is focused on making payments simple, seamless, and secure. In addition to consumer payment technologies, the Payments team also powers the money movement between Google and its consumers and businesses.
+
+Responsibilities
+
+
+ * Write product or system development code.
+ * Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+ * Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+ * Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+ * Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+   
+   
+   
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",Full-time,Not Applicable,Information Technology and Engineering,"Information Services and Technology, Information and Internet",1441,,
+3850740021,2024-03-10,,e,,,,,,,,,,,,undefined,undefined,undefined
+3876315753,2024-03-29,,Software Developer,https://in.linkedin.com/jobs/view/software-developer-at-zoho-3876315753?trk=public_jobs_topcard-title,Zoho,https://in.linkedin.com/company/zoho?trk=public_jobs_topcard-org-name,"Chennai, Tamil Nadu, India",3 days ago,Over 200 applicants,"Zoho is one of the world&#39;s most prolific software companies. With 55+ applications in nearly every major business category, including sales, marketing, customer service, accounting and back office operations, and an array of productivity and collaboration tools built from the ground up, Zoho has the depth and breadth to solve even the most complex business challenges.
+
+
+
+With more than 100 million+ users and over 15,000 employees across the globe, hundreds of thousands of companies rely on Zoho, every day to run their businesses, including Zoho itself. With 25 years of being private, bootstrapped and profitable, we understand what it takes to run a sustainable, resilient business.
+
+
+
+Role: Backend Developer
+
+Skill Set : Java/Python
+
+Experience: 3-6 Years
+
+Work location : Chennai
+
+
+
+Job Description :
+
+
+
+ * Create and deploy efficient back-end systems using Java/Python.
+ * Ensure high coding standards,system design and performance.
+ * Collaborate with cross-functional teams.
+ * Lead a team while being hands-on in development.
+ * Basic database, networking knowledge and familiarity with server- hosted platforms like Tomcat.",Full-time,Associate,Information Technology,"Information Services and Technology, Information and Media",38373,https://in.linkedin.com/in/natraj-baskar-17165727,Natraj Baskar
+3856040594,2024-03-14,,"Software Engineer, Infrastructure, Google Ads",https://in.linkedin.com/jobs/view/software-engineer-infrastructure-google-ads-at-google-3856040594?trk=public_jobs_topcard-title,Google,https://www.linkedin.com/company/google?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 weeks ago,Over 200 applicants,"Minimum qualifications:
+
+
+ * Bachelor’s degree or equivalent practical experience.
+ * 1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+ * 1 year of experience with data structures or algorithms.
+   
+   
+
+Preferred qualifications:
+
+
+ * Master's degree or PhD in Computer Science or related technical field.
+ * 1 year of experience building and developing large-scale infrastructure, distributed systems or networks, and/or experience with compute technologies, storage, and/or hardware architecture.
+ * Experience developing accessible technologies.
+   
+   
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+Google Ads is helping power the open internet with the best technology that connects and creates value for people, publishers, advertisers, and Google. We’re made up of multiple teams, building Google’s Advertising products including search, display, shopping, travel and video advertising, as well as analytics. Our teams create trusted experiences between people and businesses with useful ads. We help grow businesses of all sizes from small businesses, to large brands, to YouTube creators, with effective advertiser tools that deliver measurable results. We also enable Google to engage with customers at scale.
+
+Responsibilities
+
+
+ * Write product or system development code.
+ * Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+ * Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+ * Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+ * Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+   
+   
+   
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",Full-time,Not Applicable,Information Technology and Engineering,"Information Services and Technology, Information and Internet",1441,,
+3864019113,2024-03-31,,Software Development Engineer II,https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-flipkart-3864019113?trk=public_jobs_topcard-title,Flipkart,https://in.linkedin.com/company/flipkart?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",1 day ago,Over 200 applicants,"About Flipkart
+
+Flipkart is India’s largest e-commerce marketplace with a registered customer base of over 100 million. In the 10 years since it started, Flipkart has come to offer over 80 million products across 80+ categories including Smartphones, Books, Media, Consumer Electronics, Furniture, Fashion and Lifestyle. Launched in October 2007, Flipkart is known for its path-breaking services like Cash on Delivery, No cost EMI and a 10-day replacement policy. Flipkart was the pioneer in offering services like In-a-Day Guarantee (65 cities) and Same-Day-Guarantee (13 cities) at scale. With over 1,00,000 registered sellers, Flipkart has redefined the way brands and MSME’s do business online.",Full-time,Not Applicable,Engineering and Information Technology,"Manufacturing and Technology, Information and Internet",321062,,
+3876059297,,,Frontend Developer,https://in.linkedin.com/jobs/view/frontend-developer-at-infosys-3876059297?trk=public_jobs_topcard-title,Infosys,https://in.linkedin.com/company/infosys?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",9 hours ago,Over 200 applicants,"The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web and mobile applications for the company. Using JavaScript, HTML, and CSS, this candidate will be able to translate user and business needs into functional frontend design.
+
+
+
+Responsibilities
+
+ * Designing, developing, and testing UI for mobile and web applications
+ * Build reusable code and libraries for future use
+ * Accurately translate user and business needs into functional frontend code
+
+
+
+Qualifications
+
+
+
+ * Bachelor&#39;s degree or equivalent in Computer Science
+ * 3+ years&#39; experience in frontend development
+ * Familiarity using Scrum/Agile development methodologies.
+ * Experience building object-oriented web applications in Angular, JavaScript, HTML5, and CSS3
+
+",Full-time,Associate,Engineering,IT Services and IT Consulting,1283,https://in.linkedin.com/in/anu-krishnan-995621197,Anu Krishnan
+3852566765,2024-03-12,,Web Developer,https://in.linkedin.com/jobs/view/web-developer-at-sambhav-pay-3852566765?trk=public_jobs_topcard-title,Sambhav Pay,https://in.linkedin.com/company/sambhav-pay?trk=public_jobs_topcard-org-name,"Gurgaon, Haryana, India",2 weeks ago,Be among the first 25 applicants,"Job Title: Website Developer Fintech
+
+Company: Sambhavpay Payments Solutions
+
+Location: Gurgaon, India
+
+Salary Range: 3-4 lakh per annum (based on Relevant experience)
+
+Job Description for Website Developer (PHP, WordPress) at Sambhavpay (Gurgaon Location)
+
+About The Company
+
+Sambhavpay is a dynamic and rapidly growing fintech company based in Gurgaon. We specialize in providing innovative payment solutions to businesses and consumers. Our mission is to revolutionize the digital payment landscape and simplify transactions for everyone.
+
+Job Summary
+
+We are seeking a skilled and creative Website Developer with expertise in PHP and WordPress to join our talented team. The ideal candidate should have a proven track record of developing visually appealing and user-friendly websites that align with our brand image and meet our business requirements. The Website Developer will be responsible for designing, coding, modifying, and maintaining our company websites, ensuring they are optimized for performance, responsiveness, and user experience.
+
+Responsibilities
+
+Collaborate with the marketing and design teams to understand website requirements, including layout, features, and functionality.
+
+Develop and maintain custom WordPress themes and plugins to enhance website capabilities and user experience.
+
+Write clean, efficient, and well-documented PHP code for website development and customization.
+
+Implement responsive design principles to ensure websites are optimized for various devices and screen sizes.
+
+Conduct regular website performance tests and optimizations to improve loading times and overall performance.
+
+Ensure websites are SEO-friendly and implement best practices for search engine visibility.
+
+Integrate third-party APIs and services to enhance website functionality.
+
+Troubleshoot and debug website issues and work with the team to find efficient solutions.
+
+Stay up-to-date with the latest industry trends, technologies, and best practices in web development.
+
+Manage domain hosting, server configurations, and website backups.
+
+Collaborate with cross-functional teams to execute web projects within deadlines.
+
+Qualifications And Skills
+
+Bachelor's degree in Computer Science, Web Development, or a related field.
+
+Proven experience as a Website Developer with expertise in PHP and WordPress.
+
+A strong portfolio showcasing past website projects with WordPress development examples.
+
+Proficiency in HTML, CSS, JavaScript, and other relevant web development languages.
+
+Experience in responsive web design and mobile-friendly website development.
+
+Solid understanding of SEO principles and implementation techniques.
+
+Ability to work collaboratively in a team environment and effectively communicate technical concepts to non-technical stakeholders.
+
+Excellent problem-solving skills and attention to detail.
+
+Strong time management and organizational abilities to handle multiple projects simultaneously.
+
+If you believe you meet the requirements and have the passion to contribute to Sambhavpay's success, please submit your resume along with a cover letter detailing your relevant experience and website development portfolio to hr@sambhavpay.com
+
+Note: As part of the application process, please include links to the past websites you have developed with WordPress to showcase your skills and expertise. Applications without a portfolio may not be considered.",Full-time,Associate,Engineering and Information Technology,Financial Services,82037565,,
+3868956036,2024-03-26,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-microsoft-3868956036?trk=public_jobs_topcard-title,Microsoft,https://www.linkedin.com/company/microsoft?trk=public_jobs_topcard-org-name,Greater Kolkata Area,5 days ago,62 applicants,"Azure is the world’s leading cloud offering, trusted by hundreds of millions of users worldwide.
+
+The Azure Edge + Platform (AE+P) organization’s portfolio spans the Cloud Edge Stack, Azure Sovereign Clouds, Azure Edge Security, Azure Engineering Systems, Azure Media Services and Microsoft’s Operating Systems including the Azure Host OS, Linux and Windows. This portfolio impressively powers the world with more than one billion monthly active devices, delivers Azure to customers in their premises and Sovereign regions, and seeks to accelerate growth for Azure, Experiences & Devices, and Microsoft’s customers worldwide.
+
+The Azure Sovereign platform team builds the platform and tooling required to build, deploy, and manage various Sovereign Clouds for our global customers. More than ever, our customers are betting on the cloud and expecting Microsoft to deliver an unparalleled experience, including when dealing with their most sensitive data. To further increase adoption by government, public administrations, and other highly regulated customers, we have embarked on an initiative to deliver Sovereign Cloud solutions in select regions, meeting unique technical, legal, and operational requirements. Our mission is to help create repeatable ‘Sovereign Cloud’ by providing a zero-touch buildout experience for AE+P services through automation; offer seamless cloud management experience across various sovereign trust boundaries and enable reliable Azure platform recovery during critical situations.
+
+Responsibilities
+
+
+ * Contribute towards building the Azure Sovereign Cloud platform that makes it possible for supporting multiple classes of applications accounting for application consistency, availability, and security.
+ * Works in collaboration with teams across a single organization to develop reliable, scalable, and high-performance, software designs.
+ * Partners with engineering and Program Management teams to understand customer, business, and technical requirements to provide feedback to Azure Engineering.
+ * Triages, troubleshoots, and repairs complex live site issues by applying expertise in software and hardware components and features.
+ * Rapid cloud scale deployment of code and monitoring of telemetry
+ * Design, develop and operate large scale, efficient and reliable cloud services
+ * Drive continuous improvement on service quality and cogs efficiency
+   
+   
+
+Qualifications
+
+Required:
+
+
+ * Bachelor's degree in computer science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C#, Java, JavaScript, or PowerShell OR equivalent experience.
+ * Experience/knowledge of cloud computing, enterprise computing, IaaS and/or SaaS products.
+ * Proven ability to track complex technical issues for running online services.
+ * Excellent written and verbal communication skills.
+ * Technical passion, avid learner, terrific problem-solving skills, and self-motivated.
+   
+   
+
+#IDCAzureEPHiring
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.",Full-time,Not Applicable,Engineering and Information Technology,Software Development,1035,,
+3874684211,2024-03-28,,Java Developer,https://in.linkedin.com/jobs/view/java-developer-at-infosys-3874684211?trk=public_jobs_topcard-title,Infosys,https://in.linkedin.com/company/infosys?trk=public_jobs_topcard-org-name,"Bengaluru East, Karnataka, India",3 days ago,Over 200 applicants," * Primary skills:Technology->Java->Spring MVC,Technology->Java->Springboot,Technology->Microservices->Microservices API Management
+   
+   
+
+A day in the life of an Infoscion
+
+
+ * As part of the Infosys delivery team, your primary role would be to provide best fit architectural solutions for one or more projects.
+ * You would also provide technology consultation and assist in defining scope and sizing of work
+ * You would implement solutions, create technology differentiation and leverage partner technologies.
+ * Additionally, you would participate in competency development with the objective of ensuring the best-fit and high quality technical solutions.
+ * You would be a key contributor in creating thought leadership within the area of technology specialization and in compliance with guidelines, policies and norms of Infosys. If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+ * Knowledge of architectural design patterns, performance tuning, database and functional designs
+ * Hands-on experience in Service Oriented Architecture
+ * Ability to lead solution development and delivery for the design solutions
+ * Experience in designing high level and low level documents is a plus
+ * Good understanding of SDLC is a pre-requisite
+ * Awareness of latest technologies and trends
+ * Logical thinking and problem solving skills along with an ability to collaborate",Full-time,Entry level,Engineering and Information Technology,IT Services and IT Consulting,1283,,
+3864083044,2024-03-19,,SDE-2,https://in.linkedin.com/jobs/view/sde-2-at-airtel-3864083044?trk=public_jobs_topcard-title,airtel,https://in.linkedin.com/company/airtel?trk=public_jobs_topcard-org-name,"Gurgaon, Haryana, India",1 week ago,Over 200 applicants," * You will be responsible for understanding business needs and knowing how to create and manage the tools, and you will be responsible for conferring with users, studying system flow, data usage, and work processes following the software development lifecycle.
+ * You will be responsible for identifying, prioritizing and executing tasks in the software development life cycle.
+ * You will be responsible for performing validation and verification testing.
+ * You will have to collaborate with the internal teams and vendors to fix and improve products.",Full-time,Entry level,Engineering and Information Technology,Telecommunications,3583,,
+3855532497,2024-03-14,,Software Developer,https://in.linkedin.com/jobs/view/software-developer-at-tietoevry-3855532497?trk=public_jobs_topcard-title,Tietoevry,https://fi.linkedin.com/company/tietoevry?trk=public_jobs_topcard-org-name,"Pune, Maharashtra, India",2 weeks ago,Over 200 applicants,"You may apply to Tietoevry by selecting Apply and fill your application details to the form. You may also Apply by using LinkedIn and populate details to your application from your LinkedIn profile.
+
+
+ * Proven experience as a ServiceNow developer, with a focus on portal development.
+ * Strong proficiency in front-end technologies such as HTML, CSS, JavaScript, and AngularJS.
+ * In-depth knowledge of ServiceNow platform capabilities, including Service Portal and Widget development.
+ * Experience with REST and SOAP web services for integration purposes.
+ * Excellent problem-solving and troubleshooting skills.
+ * Strong communication and collaboration skills.
+ * ServiceNow certifications are a plus.
+ * Web development experience a plus",Full-time,Not Applicable,Engineering and Information Technology,IT Services and IT Consulting,40669199,,
+3852590192,2024-03-12,,Junior Software Engineer,https://in.linkedin.com/jobs/view/junior-software-engineer-at-ay-tech-3852590192?trk=public_jobs_topcard-title,AY Tech,https://in.linkedin.com/company/aytech-pathanamthitta?trk=public_jobs_topcard-org-name,"Thiruvananthapuram, Kerala, India",2 weeks ago,104 applicants,"Are you a passionate and driven individual looking to kick-start your career in the world of software engineering?
+
+Responsibilities
+
+Collaborate with the development team to design, develop, and maintain high-quality software applications.
+
+Write clean, efficient, and well-documented code using industry best practices.
+
+Participate in code reviews and provide constructive feedback to improve code quality.
+
+Troubleshoot and debug software issues to ensure smooth functionality.
+
+Work closely with cross-functional teams to gather requirements and translate them into technical specifications.
+
+Stay up-to-date with the latest technologies, trends, and advancements in software engineering.
+
+Requirements
+
+Freshers Btech cs,Btech IT, Bsc cs ,BCA, MCA ,Msc cs
+
+How To Apply
+
+If you are ready to jumpstart your career as a Junior Software Engineer, please submit your resume contact@aytech.co.in.",Full-time,Entry level,Information Technology,Software Development,31228134,,
+3876059297,,,e,,,,,,,,,,,,undefined,undefined,undefined
+3872941825,2024-03-28,,Software Development Engineer I,https://in.linkedin.com/jobs/view/software-development-engineer-i-at-zeta-3872941825?trk=public_jobs_topcard-title,Zeta,https://www.linkedin.com/company/zetasuite?trk=public_jobs_topcard-org-name,"Mumbai, Maharashtra, India",4 days ago,Over 200 applicants,"All About Zeta Suite
+
+Zeta is a Next-Gen Banking Tech company that empowers banks and fintechs to launch banking products for the future. It was founded by Bhavin Turakhia and Ramki Gaddipati in 2015.Our flagship processing platform - Zeta Tachyon - is the industry’s first modern, cloud-native, and fully API-enabled stack that brings together issuance, processing, lending, core banking, fraud & risk, and many more capabilities as a single-vendor stack. 15M+ cards have been issued on our platform globally.
+
+Zeta Tachyon offers:-
+
+
+ * Rich digital-first cardholder experiences.
+ * Native embeddable banking support.
+ * Hyper-Personalisation Policy Engine to launch segment-of-one card programs.
+ * Web-based product configurators to launch in days vs. quarters.
+ * Rapid innovation & extensibility via APIs, event streams, and more.
+ * Modern & intuitive web-based back office experiences.
+ * Next-gen regulatory risk & compliance capabilities.
+   
+   
+
+Zeta is actively working with the largest Banks and Fintechs in multiple global markets transforming customer experience for multi-million card portfolios.
+
+Zeta has over 1700+ employees - with over 70% roles in R&D - across locations in the US , EMEA , and Asia . We raised $280 million at a $1.5 billion valuation from Softbank, Mastercard, and other investors in 2021.
+
+Learn more @ www.zeta.tech , careers.zeta.tech , Linkedin , Twitter
+
+The Role
+
+
+ * We build large-scale transaction processing systems that can work with many current and future payment networks. We build applications that help banks realise the value of this new approach early. We help banks to rapidly deliver the value of these applications to their customers.
+   
+   
+
+What would you do here?
+
+
+ * Building highly-scalable and secure payments platform
+ * Working with various product teams gathering requirements and adding capabilities
+ * Using cutting-edge cryptography to secure payments beyond industry standards.
+ * Deriving actionable insights by mining TBs of data.
+ * Building low-level infrastructure that aims to push the boundaries of network performance.
+ * Identify patterns and provide solutions to class of problems
+ * Research, evaluate and socialize new tools, technologies, and techniques to improve the value of the system
+   
+   
+
+What are we looking for?
+
+
+ * Bachelor’s/Master’s degree in engineering with 1+ years of experience building enterprise systems
+ * Worked on one or more large scale java applications
+ * Good understanding of nuances of distributed systems, scalability, and availability
+ * Good knowledge of one or more relational and NoSQL databases and transactions
+ * Shrewd focus on latency and throughput of services
+ * In-depth understanding of concurrency, synchronization, NIO, memory allocation and GC
+ * Experience with IaaS clouds like AWS/Google Cloud, Azure, OpenStack etc.
+ * Experience in working with Message Brokers and Application Containers
+   
+   
+
+Life At Zeta
+
+At Zeta, we want you to grow to be the best version of yourself by unlocking the great potential that lies within you. This is why our core philosophy is ‘People Must Grow.’ We recognize your aspirations; act as enablers by bringing you the right opportunities, and let you grow as you chase disruptive goals.
+
+is adventurous and exhilarating at the same time. You get to work with some of the best minds in the industry and experience a culture that values the diversity of thoughts. If you want to push boundaries, learn continuously and grow to be the best version of yourself, Zeta is the place to be! Explore the life at zeta
+
+Zeta is an equal opportunity employer.
+
+At Zeta, we are committed to equal employment opportunities regardless of job history, disability, gender identity, religion, race, marital/parental status, or another special status. We are proud to be an equitable workplace that welcomes individuals from all walks of life if they fit the roles and responsibilities.",Full-time,Entry level,Engineering and Information Technology,Software Development,10355561,,
+3853461147,2024-03-14,,Java Software Engineer,https://in.linkedin.com/jobs/view/java-software-engineer-at-american-express-3853461147?trk=public_jobs_topcard-title,American Express,https://www.linkedin.com/company/american-express?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",2 weeks ago,Over 200 applicants,"You Lead the Way. We’ve Got Your Back.
+
+With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.
+
+At American Express, you’ll be recognized for your contributions, leadership, and impact—every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
+
+Join Team Amex and let's lead the way together.
+
+As part of our diverse tech team, you can architect, code and ship software that makes us an essential part of our customers’ digital lives. Here, you can work alongside talented engineers in an open, supportive, inclusive environment where your voice is valued, and you make your own decisions on what tech to use to solve challenging problems. Amex offers a range of opportunities to work with the latest technologies and encourages you to back the broader engineering community through open source. And because we understand the importance of keeping your skills fresh and relevant, we give you dedicated time to invest in your professional development. Find your place in technology on #TeamAmex.
+
+How will you make an impact in this role?
+
+As an Engineer in Cloud Engineering, you will be a key engineer in the development of observability telemetry architecture and systems that span multiple clouds. You will work on software initiatives, rapid POCs, analysis of software products, and real-time multi Petabyte high throughput low latency applications.
+
+ * Support engineers and project managers in rapid development and deployment
+ * Troubleshoot production issues by engaging support teams and assist in the resolution of issues; formulate action plan; interpreting the results to determine further action; perform root cause analysis to prevent future occurrence of issues, and create/update support Runbooks
+ * Drive both high level and detailed design, conduct design reviews, and feature implementation
+ * Actively participate in the design of new systems and the redesign of existing systems to meet product requirements, changing needs
+ * Engage and work with cross-functional leaders to understand and help define business principles, goals and strategy within scope of responsibility.
+ * Communicate to senior leaders with regard to strategy direction and changes.
+ * Mentor engineers and solution architects to ensure technology complexities are understood very clearly to implement solutions expeditiously with high quality.
+ * Perform Rapid POCs to prove software initiatives and validate ideas for large multi cloud observability platform deployments
+
+Minimum Qualifications
+
+ * Experience 5 -8 Years
+ * Strong grasp of data structures and algorithms
+ * Strong hands-on experience in Java with extensive understanding of the JVM and garbage collectors and JVM memory model
+ * Extensive experience in designing and implementing large scale distributed data intensive platforms with high resiliency, availability, and reliability.
+ * Strong experience in maintaining high throughput, low latency applications.
+ * Strong written, verbal communications, presentation skills, leadership, problem solving and analytical skills.
+ * Proven collaboration skills along with the ability to influence without authority.
+ * Bachelor’s degree in computer science, Computer Science Engineering, or related field required; Advanced Degree preferred, with 8 or more years of experience in software engineering, design and architecture.
+
+Preferred Qualifications:
+
+ * Hands on experience with Kotlin and/or Go
+ * Experience in working with Observability standards OpenTelemetry.
+ * Experience with micro services architectures and service mesh technologies.
+ * Hands on experience in the following: Vert.x, Spring, Envoy, gRPC, protobuf, JSON, CouchBase, Cassandra, Redis, Consul, Jenkins, docker, Kubernates, OpenShift, Elastic Stack, Kafka, Spark
+
+Compliance Language
+
+We back our colleagues and their loved ones with benefits and programs that support their holistic well-being. That means we prioritize their physical, financial, and mental health through each stage of life. Benefits include:
+
+ * Competitive base salaries
+ * Bonus incentives
+ * Support for financial-well-being and retirement.
+ * Comprehensive medical, dental, vision, life insurance, and disability benefits (depending on location)
+ * Flexible work arrangements and schedules with hybrid and virtual options with Amex Flex
+ * Generous paid parental leave policies (depending on your location)
+ * Free access to global on-site wellness centers staffed with nurses and doctors (depending on location)
+ * Free and confidential counseling support through our Healthy Minds program
+ * Career development and training opportunities
+
+American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+
+Offer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations.
+
+",Full-time,Associate,"Engineering, Product Management, and Other","Financial Services, Banking, and Technology, Information and Media",1277,https://in.linkedin.com/in/sameerthapa,Sameer Thapa🏳️🌈 (He/They) 🏳️🌈
+3876577156,2024-03-29,,React JS Developer,https://in.linkedin.com/jobs/view/react-js-developer-at-virtusa-3876577156?trk=public_jobs_topcard-title,Virtusa,https://www.linkedin.com/company/virtusa?trk=public_jobs_topcard-org-name,"Pune, Maharashtra, India",3 days ago,Over 200 applicants,"Title GDT DMT - Frontend DeveloperExp 5+Location Hyderabad or PunePositionsKey RequirementsDesign and develop complex applications to be used by various departments by crafting good UI/UX using modern design concepts.Fluency in JavaScript ES6.Data visualization using JavaScript D3 or similar libraries.Conceptual understanding of Reactive UI frameworksVue.js and React framework and its surrounding ecosystem.Fluency in HTML 5 and CSS/SCSS/LESSDevOps practices (Git, Git Flow and/or GitHub Flow)Client-side state managementElastic SearchDomain-driven Design",Full-time,Associate,Engineering and Information Technology,IT Services and IT Consulting,5140,,
+3864078536,2024-03-19,,SDE-2,https://in.linkedin.com/jobs/view/sde-2-at-airtel-3864078536?trk=public_jobs_topcard-title,airtel,https://in.linkedin.com/company/airtel?trk=public_jobs_topcard-org-name,"Gurgaon, Haryana, India",1 week ago,104 applicants," * You will be responsible for understanding business needs and knowing how to create and manage the tools, and you will be responsible for conferring with users, studying system flow, data usage, and work processes following the software development lifecycle.
+ * You will be responsible for identifying, prioritizing and executing tasks in the software development life cycle.
+ * You will be responsible for performing validation and verification testing.
+ * You will have to collaborate with the internal teams and vendors to fix and improve products.",Full-time,Entry level,Engineering and Information Technology,Telecommunications,3583,,
+3862650958,2024-03-21,,Software Engineer,https://in.linkedin.com/jobs/view/software-engineer-at-tech-mahindra-3862650958?trk=public_jobs_topcard-title,Tech Mahindra,https://in.linkedin.com/company/tech-mahindra?trk=public_jobs_topcard-org-name,"Bengaluru, Karnataka, India",1 week ago,Over 200 applicants,"We need very skilled ITOM resource,
+
+• Experience implementing ServiceNow ITOM, with focus on Discovery and Service Mapping applications.
+
+• Good knowledge of CMDB and its associated process, OOB class structure, CSDM process.
+
+• Overall knowledge of ServiceNow Platform including building new applications, Integrations & enhancing existing applications.
+
+• Work on Solution Design for new requirements\ Integrations, suggest recommendations and best practices.
+
+• Identify any gaps in existing solutions, suggest and work on improvements.
+
+• Guide\Mentor team members.
+
+• Exposure of having worked in large organizations managing multiple Service Management tools.
+
+• Good stakeholder management and communication skills.
+
+• Certified in CIS Discovery, CIS Service Mapping, ITIL Certified
+
+
+
+
+Reach me for more information 7981986940 and BS00784228@TechMahindra.com",Full-time,Mid-Senior level,Information Technology,IT Services and IT Consulting and Software Development,3067,https://in.linkedin.com/in/sreekanth-baddula-4b56a6b2,Sreekanth Baddula

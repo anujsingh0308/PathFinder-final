@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Result</title>
+    <style>
+        /* CSS styles go here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(55, 81, 126);
+            color:red;
+        }
+
+        input[type="range"] {
+            width: 200px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    {% for key, value in final_res.items() %}
+        {{key}} :  <input disabled type="range" min="0" max="1" step="0.01" value="{{ value }}"> <br>
+    {% endfor %}
+</body>
+</html>
